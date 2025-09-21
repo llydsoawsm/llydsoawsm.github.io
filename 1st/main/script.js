@@ -6,7 +6,7 @@ const timelineData = [
 		desc: 'The day our eyes first met and everything changed.',
 		color: '#667eea',
 		icon: '👀',
-		photo: 'main/photos/photo1.jpg',
+		photo: '1st/main/photos/photo1.jpg',
 		letter: {
 			title: 'The Beginning',
 			content: `My dearest love,<br><br>
