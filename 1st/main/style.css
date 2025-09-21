@@ -1,3 +1,113 @@
+/* Mobile-friendly orb grid for timeline on small screens */
+@media (max-width: 600px) {
+  .timeline-orbs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    height: auto;
+    min-height: 0;
+    padding: 10px 0 30px 0;
+    position: relative;
+    gap: 10px 6px;
+  }
+  .orb {
+    position: relative !important;
+    margin: 0 3px 10px 3px;
+    left: unset !important;
+    top: unset !important;
+    transform: none !important;
+    width: 44px;
+    height: 44px;
+    min-width: 28px;
+    min-height: 28px;
+    max-width: 52px;
+    max-height: 52px;
+    margin-bottom: 0;
+  }
+  .orb-content {
+    font-size: 0.7rem;
+    padding: 0 2px;
+    line-height: 1.1;
+  }
+}
+/* Below Timeline Container */
+.below-timeline-container {
+  width: 100%;
+  max-width: 900px;
+  margin: 60px auto 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 2;
+}
+
+.below-timeline-content {
+  background: rgba(255,255,255,0.04);
+  border-radius: 24px;
+  box-shadow: 0 8px 32px rgba(102,126,234,0.10), 0 1.5px 8px rgba(0,0,0,0.10);
+  padding: 40px 40px 30px 40px;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.below-title {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 12px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  letter-spacing: -0.5px;
+}
+
+.below-desc {
+  font-size: 1.1rem;
+  color: rgba(255,255,255,0.85);
+  margin-bottom: 0;
+}
+
+.floating-orb-below {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+.floating-orb-custom {
+  width: 90px;
+  height: 90px;
+  margin: 0 auto;
+  background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+  box-shadow: 0 0 40px rgba(67,233,123,0.4), 0 0 80px rgba(56,249,215,0.2);
+  animation: orb-preview-float 3s ease-in-out infinite;
+  position: static;
+}
+
+.floating-orb-custom .orb-inner {
+  background: rgba(255,255,255,0.18);
+}
+
+@media (max-width: 768px) {
+  .below-timeline-container {
+    max-width: 99%;
+    margin-top: 30px;
+  }
+  .below-timeline-content {
+    padding: 24px 12px 18px 12px;
+    border-radius: 18px;
+  }
+  .floating-orb-custom {
+    width: 60px;
+    height: 60px;
+  }
+}
 /* Reset and Base Styles */
 * {
   margin: 0;
@@ -561,6 +671,8 @@ body {
 }
 
 /* Timeline 3D */
+
+/* Responsive Timeline 3D */
 .timeline-3d {
   position: relative;
   width: 100%;
@@ -571,6 +683,27 @@ body {
   align-items: center;
   justify-content: center;
   padding: 60px 0;
+}
+
+@media (max-width: 1200px) {
+  .timeline-3d {
+    min-height: 600px;
+    padding: 40px 0;
+  }
+}
+
+@media (max-width: 900px) {
+  .timeline-3d {
+    min-height: 400px;
+    padding: 30px 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .timeline-3d {
+    min-height: 320px;
+    padding: 16px 0;
+  }
 }
 
 .timeline-glow {
@@ -591,6 +724,7 @@ body {
 }
 
 
+
 .timeline-orbs {
   position: relative;
   width: 100%;
@@ -598,9 +732,28 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  touch-action: pan-x pan-y;
+}
+
+@media (max-width: 1200px) {
+  .timeline-orbs {
+    height: 500px;
+  }
+}
+@media (max-width: 900px) {
+  .timeline-orbs {
+    height: 350px;
+  }
+}
+@media (max-width: 600px) {
+  .timeline-orbs {
+    height: 220px;
+    min-height: 180px;
+  }
 }
 
 /* Enhanced Orbs */
+
 .orb {
   width: 80px;
   height: 80px;
@@ -619,6 +772,41 @@ body {
   box-shadow: 
     0 0 30px rgba(102, 126, 234, 0.4),
     0 8px 25px rgba(0, 0, 0, 0.3);
+  min-width: 40px;
+  min-height: 40px;
+  max-width: 100px;
+  max-height: 100px;
+}
+
+@media (max-width: 1200px) {
+  .orb {
+    width: 60px;
+    height: 60px;
+    min-width: 32px;
+    min-height: 32px;
+    max-width: 80px;
+    max-height: 80px;
+  }
+}
+@media (max-width: 900px) {
+  .orb {
+    width: 44px;
+    height: 44px;
+    min-width: 24px;
+    min-height: 24px;
+    max-width: 60px;
+    max-height: 60px;
+  }
+}
+@media (max-width: 600px) {
+  .orb {
+    width: 32px;
+    height: 32px;
+    min-width: 18px;
+    min-height: 18px;
+    max-width: 40px;
+    max-height: 40px;
+  }
 }
 
 .orb::before {
@@ -697,6 +885,7 @@ body {
   opacity: 1;
 }
 
+
 .orb-content {
   color: white;
   font-size: 0.9rem;
@@ -707,6 +896,21 @@ body {
   padding: 0 8px;
   z-index: 2;
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  word-break: break-word;
+  line-height: 1.1;
+}
+
+@media (max-width: 900px) {
+  .orb-content {
+    font-size: 0.7rem;
+    padding: 0 4px;
+  }
+}
+@media (max-width: 600px) {
+  .orb-content {
+    font-size: 0.6rem;
+    padding: 0 2px;
+  }
 }
 
 .intro-orb-preview .orb-preview {
@@ -720,237 +924,8 @@ body {
 }
 
 /* Responsive Design */
-@media (max-width: 1200px) {
-  .title {
-    font-size: 3rem;
-  }
-  
-  .timeline-orbs {
-    height: 500px;
-  }
-  
-  .orb {
-    width: 70px;
-    height: 70px;
-  }
-}
 
-@media (max-width: 768px) {
-  .container {
-    padding: 20px 15px;
-  }
-  
-  .title {
-    font-size: 2.2rem;
-  }
-  
-  .timeline-3d {
-    min-height: 600px;
-  }
-  
-  .timeline-orbs {
-    height: 600px;
-  }
-  
-  .orb {
-    width: 60px;
-    height: 60px;
-  }
-  
-  .orb-content {
-    font-size: 0.8rem;
-  }
-  
-  /* Mobile Intro Modal */
-  .intro-content {
-    padding: 32px 24px;
-    margin: 20px;
-    max-width: 90%;
-    border-radius: 32px;
-  }
-  
-  .intro-title {
-    font-size: 2.2rem;
-    margin-bottom: 12px;
-  }
-  
-  .intro-subtitle {
-    font-size: 1rem;
-    margin-bottom: 8px;
-  }
-  
-  .intro-button {
-    padding: 14px 28px;
-    font-size: 1rem;
-    border-radius: 14px;
-  }
-  
-  .orb-preview {
-    width: 70px;
-    height: 70px;
-  }
-  
-  .gradient-orb {
-    filter: blur(20px);
-  }
-  
-  .orb-1, .orb-2, .orb-3 {
-    width: 150px;
-    height: 150px;
-  }
-  
-  /* Mobile Memory Modal */
-  .memory-content {
-    width: 95%;
-    height: 90%;
-    max-height: none;
-    border-radius: 20px;
-  }
-  
-  .memory-layout {
-    flex-direction: column;
-  }
-  
-  .photo-section {
-    flex: 0 0 40%;
-  }
-  
-  .letter-section {
-    flex: 1;
-    padding: 24px;
-  }
-  
-  .letter-header {
-    margin-bottom: 20px;
-    padding-bottom: 15px;
-  }
-  
-  .letter-icon {
-    font-size: 1.5rem;
-  }
-  
-  .letter-title {
-    font-size: 1.4rem;
-  }
-  
-  .letter-content {
-    font-size: 1rem;
-    line-height: 1.6;
-    margin-bottom: 20px;
-  }
-  
-  .photo-overlay {
-    padding: 20px 20px 15px;
-  }
-  
-  .photo-date {
-    font-size: 1rem;
-    margin-bottom: 6px;
-  }
-  
-  .photo-title {
-    font-size: 1.4rem;
-  }
-}
-
-@media (max-width: 480px) {
-  .title {
-    font-size: 1.8rem;
-  }
-  
-  .timeline-orbs {
-    height: 350px;
-  }
-  
-  .orb {
-    width: 50px;
-    height: 50px;
-  }
-  
-  .orb-content {
-    font-size: 0.7rem;
-    padding: 0 4px;
-  }
-  
-  /* Small Mobile Intro Modal */
-  .intro-content {
-    padding: 24px 20px;
-    margin: 15px;
-    border-radius: 28px;
-  }
-  
-  .intro-title {
-    font-size: 1.8rem;
-    margin-bottom: 10px;
-  }
-  
-  .intro-subtitle {
-    font-size: 0.95rem;
-    margin-bottom: 6px;
-  }
-  
-  .intro-button {
-    padding: 12px 24px;
-    font-size: 0.95rem;
-    border-radius: 12px;
-  }
-  
-  .orb-preview {
-    width: 60px;
-    height: 60px;
-  }
-  
-  /* Small Mobile Memory Modal */
-  .memory-content {
-    width: 98%;
-    height: 95%;
-    border-radius: 16px;
-  }
-  
-  .letter-section {
-    padding: 20px;
-  }
-  
-  .letter-header {
-    margin-bottom: 16px;
-    padding-bottom: 12px;
-  }
-  
-  .letter-icon {
-    font-size: 1.3rem;
-  }
-  
-  .letter-title {
-    font-size: 1.2rem;
-  }
-  
-  .letter-content {
-    font-size: 0.95rem;
-    line-height: 1.5;
-    margin-bottom: 16px;
-  }
-  
-  .photo-overlay {
-    padding: 16px 16px 12px;
-  }
-  
-  .photo-date {
-    font-size: 0.9rem;
-    margin-bottom: 4px;
-  }
-  
-  .photo-title {
-    font-size: 1.2rem;
-  }
-  
-  .close-memory-btn {
-    width: 35px;
-    height: 35px;
-    font-size: 20px;
-    top: 15px;
-    right: 15px;
-  }
-}
+/* Remove old orb responsive rules above, replaced with new ones for clarity and flexibility */
 
 /* Touch Device Optimizations */
 @media (hover: none) and (pointer: coarse) {
