@@ -6,7 +6,7 @@ const timelineData = [
 		desc: 'The day our eyes first met and everything changed.',
 		color: '#667eea',
 		icon: '👀',
-		photo: 'photos/2018.jpg',
+		photo: '1st/photos/photo1.jpg',
 		letter: {
 			title: 'The Beginning',
 			content: `My dearest love,<br><br>
@@ -22,7 +22,7 @@ const timelineData = [
 		desc: 'Our first official date - butterflies and endless conversations.',
 		color: '#764ba2',
 		icon: '🌹',
-		photo: 'photos/2018b.jpg',
+		photo: '1st/photos/2018b.jpg',
 		letter: {
 			title: 'Butterflies & Dreams',
 			content: `My beautiful date,<br><br>
@@ -38,7 +38,7 @@ const timelineData = [
 		desc: 'The moment that sealed our fate together.',
 		color: '#f093fb',
 		icon: '💋',
-		photo: 'photos/2019.jpg',
+		photo: '1st/photos/2019.jpg',
 		letter: {
 			title: 'Sealed with a Kiss',
 			content: `My first kiss,<br><br>
@@ -54,7 +54,7 @@ const timelineData = [
 		desc: 'Our first adventure together - exploring new places.',
 		color: '#4facfe',
 		icon: '✈️',
-		photo: 'photos/2019b.jpg',
+		photo: '1st/photos/2019b.jpg',
 		letter: {
 			title: 'Adventure Together',
 			content: `My adventurous soul,<br><br>
@@ -70,10 +70,10 @@ const timelineData = [
 		desc: 'The words that changed everything between us.',
 		color: '#43e97b',
 		icon: '💕',
-		photo: 'photos/2020.jpg',
+		photo: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjYwMCIgdmlld0JveD0iMCAwIDQwMCA2MDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNjAwIiBmaWxsPSIjNjY3ZWVhIi8+Cjx0ZXh0IHg9IjIwMCIgeT0iMjgwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSIgZm9udC1zaXplPSIyMCIgZm9udC1mYW1pbHk9IkFyaWFsIj7wn5mUIEZpcnN0IE1lZXRpbmc8L3RleHQ+Cjx0ZXh0IHg9IjIwMCIgeT0iMzIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSIgZm9udC1zaXplPSIxNiIgZm9udC1mYW1pbHk9IkFyaWFsIj4yMDE4PC90ZXh0Pgo8L3N2Zz4K',
 		letter: {
 			title: 'Three Little Words',
-			content: `My love,<br><br>
+			content: `My love,<br><br>	
 			Those three little words changed everything. "I love you" - simple words that carry the weight of the universe, the depth of oceans, the warmth of a thousand suns.<br><br>
 			Saying them to you felt like the most natural thing in the world, like breathing, like my heart beating. And hearing them back from you was like coming home to a place I never knew existed.<br><br>
 			Thank you for loving me back, for making my heart complete.`,
@@ -86,7 +86,7 @@ const timelineData = [
 		desc: 'Faced obstacles together and came out stronger.',
 		color: '#fa709a',
 		icon: '💪',
-		photo: 'photos/2020b.jpg',
+		photo: '1st/photos/2020b.jpg',
 		letter: {
 			title: 'Stronger Together',
 			content: `My strength, my rock,<br><br>
@@ -102,7 +102,7 @@ const timelineData = [
 		desc: 'The day we became roommates and started building our home.',
 		color: '#ff6b6b',
 		icon: '🏠',
-		photo: 'photos/2021.jpg',
+		photo: '1st/photos/2021.jpg',
 		letter: {
 			title: 'Our Home',
 			content: `My home, my heart,<br><br>
@@ -118,7 +118,7 @@ const timelineData = [
 		desc: 'Celebrating one year of love and countless memories.',
 		color: '#4ecdc4',
 		icon: '🎂',
-		photo: 'photos/2022.jpg',
+		photo: '1st/photos/2022.jpg',
 		letter: {
 			title: 'One Year of Magic',
 			content: `My anniversary love,<br><br>
@@ -134,7 +134,7 @@ const timelineData = [
 		desc: 'A big achievement that brought us even closer.',
 		color: '#45b7d1',
 		icon: '🎉',
-		photo: 'photos/2023.jpg',
+		photo: '1st/photos/2023.jpg',
 		letter: {
 			title: 'Celebrating Us',
 			content: `My celebration, my joy,<br><br>
@@ -150,7 +150,7 @@ const timelineData = [
 		desc: 'Another year of love, growth, and shared dreams.',
 		color: '#96ceb4',
 		icon: '🌱',
-		photo: 'photos/2024.jpg',
+		photo: '1st/photos/2024.jpg',
 		letter: {
 			title: 'Growing in Love',
 			content: `My growing love,<br><br>
@@ -166,7 +166,7 @@ const timelineData = [
 		desc: 'Still growing, learning, and loving every moment together.',
 		color: '#feca57',
 		icon: '💖',
-		photo: 'photos/2025.jpg',
+		photo: '1st/photos/2025.jpg',
 		letter: {
 			title: 'Forever & Always',
 			content: `My forever, my always,<br><br>
@@ -182,7 +182,7 @@ const timelineData = [
 		desc: 'The moment your laugh became my favorite sound.',
 		color: '#ff9ff3',
 		icon: '😂',
-		photo: 'photos/2018c.jpg',
+		photo: '1st/photos/2018c.jpg',
 		letter: {
 			title: 'Your Laugh',
 			content: `My joy, my happiness,<br><br>
@@ -198,7 +198,7 @@ const timelineData = [
 		desc: 'Our first disagreement and how we worked through it.',
 		color: '#ff6b6b',
 		icon: '🤝',
-		photo: 'photos/2019c.jpg',
+		photo: '1st/photos/2019c.jpg',
 		letter: {
 			title: 'Stronger Together',
 			content: `My partner in growth,<br><br>
@@ -214,7 +214,7 @@ const timelineData = [
 		desc: 'The first time I surprised you and saw your beautiful reaction.',
 		color: '#a8e6cf',
 		icon: '🎁',
-		photo: 'photos/2020c.jpg',
+		photo: '1st/photos/2020c.jpg',
 		letter: {
 			title: 'Your Surprise',
 			content: `My beautiful surprise,<br><br>
@@ -230,7 +230,7 @@ const timelineData = [
 		desc: 'The day we got our first pet together.',
 		color: '#ffd93d',
 		icon: '🐾',
-		photo: 'photos/2021b.jpg',
+		photo: '1st/photos/2021b.jpg',
 		letter: {
 			title: 'Our Little Family',
 			content: `My co-parent,<br><br>
@@ -246,7 +246,7 @@ const timelineData = [
 		desc: 'Our first holiday celebration together as a couple.',
 		color: '#ff8a80',
 		icon: '🎄',
-		photo: 'photos/2022b.jpg',
+		photo: '1st/photos/2022b.jpg',
 		letter: {
 			title: 'Holiday Magic',
 			content: `My holiday love,<br><br>
@@ -262,7 +262,7 @@ const timelineData = [
 		desc: 'The first big project we tackled together.',
 		color: '#81c784',
 		icon: '🔨',
-		photo: 'photos/2023b.jpg',
+		photo: '1st/photos/2023b.jpg',
 		letter: {
 			title: 'Teamwork Makes the Dream Work',
 			content: `My project partner,<br><br>
@@ -278,7 +278,7 @@ const timelineData = [
 		desc: 'Our first big adventure and the memories we made.',
 		color: '#64b5f6',
 		icon: '🗺️',
-		photo: 'photos/2024b.jpg',
+		photo: '1st/photos/2024b.jpg',
 		letter: {
 			title: 'Adventure Awaits',
 			content: `My adventure buddy,<br><br>
@@ -294,7 +294,7 @@ const timelineData = [
 		desc: 'All the dreams we have for our future together.',
 		color: '#ba68c8',
 		icon: '🌈',
-		photo: 'photos/2025b.jpg',
+		photo: '1st/photos/2025b.jpg',
 		letter: {
 			title: 'Our Future',
 			content: `My dream partner,<br><br>
@@ -700,6 +700,8 @@ function setupEnhancedInteractions(container) {
 
 // Memory Modal Functions
 function openMemoryModal(memoryData) {
+	console.log('Opening modal with:', memoryData);
+	
 	const modal = document.getElementById('memory-modal');
 	const photo = document.getElementById('memory-photo');
 	const photoDate = document.getElementById('photo-date');
@@ -708,11 +710,51 @@ function openMemoryModal(memoryData) {
 	const letterContent = document.getElementById('letter-content');
 	const letterSignature = document.getElementById('letter-signature');
 	
-	if (!modal) return;
+	if (!modal) {
+		console.error('Modal not found!');
+		return;
+	}
 	
-	// Set photo
-	photo.src = memoryData.photo;
-	photo.alt = `${memoryData.title} - ${memoryData.date}`;
+	if (!photo) {
+		console.error('Photo element not found!');
+		return;
+	}
+	
+	console.log('Setting photo src to:', memoryData.photo);
+	
+	// Clear any previous image
+	photo.src = '';
+	
+	// Create a new image to test if it loads
+	const testImg = new Image();
+	testImg.onload = function() {
+		console.log('Image loaded successfully:', memoryData.photo);
+		// Set the actual photo source
+		photo.src = memoryData.photo;
+		photo.alt = `${memoryData.title} - ${memoryData.date}`;
+		
+		// Ensure photo is visible
+		photo.style.display = 'block';
+		photo.style.opacity = '1';
+		photo.style.visibility = 'visible';
+		
+		console.log('Photo element dimensions:', photo.offsetWidth, 'x', photo.offsetHeight);
+	};
+	
+	testImg.onerror = function() {
+		console.error('Failed to load image:', memoryData.photo);
+		// Use a guaranteed working placeholder
+		const fallbackUrl = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjYwMCIgdmlld0JveD0iMCAwIDQwMCA2MDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNjAwIiBmaWxsPSIjNjY3ZWVhIi8+Cjx0ZXh0IHg9IjIwMCIgeT0iMzAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSIgZm9udC1zaXplPSIyNCIgZm9udC1mYW1pbHk9IkFyaWFsIj5QaG90byBOb3QgRm91bmQ8L3RleHQ+Cjwvc3ZnPgo=';
+		photo.src = fallbackUrl;
+		photo.alt = `${memoryData.title} - ${memoryData.date} (Photo not found)`;
+		photo.style.display = 'block';
+		photo.style.opacity = '1';
+		photo.style.visibility = 'visible';
+	};
+	
+	// Start loading the image
+	testImg.src = memoryData.photo;
+	
 	photoDate.textContent = memoryData.date;
 	photoTitle.textContent = memoryData.title;
 	

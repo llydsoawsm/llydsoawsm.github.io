@@ -536,6 +536,10 @@ body {
   height: 100%;
   object-fit: cover;
   transition: transform 0.3s ease;
+  display: block !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  min-height: 300px;
 }
 
 .photo-overlay {
