@@ -1,124 +1,158 @@
-// Enhanced Timeline Data with photos and letters - More Events!
 const timelineData = [
 	{
-		date: '2018',
-		title: 'First Meeting',
-		desc: 'The day our eyes first met and everything changed.',
+		date: 'May 18, 2025',
+		title: 'First Picture',
+		desc: "Ito talaga yung picture na hindi ko makakalimutan.",
 		color: '#667eea',
 		icon: '👀',
-		photo: '1st/photos/photo1.jpg',
+		photo: '1st/main/photos/firstPic.jpeg',
 		letter: {
-			title: 'The Beginning',
-			content: `My dearest love,<br><br>
-			Remember that magical day when our eyes first met? It feels like yesterday, yet it feels like forever. That moment changed everything - it was the day I found my missing piece.<br><br>
-			You walked into my life like sunshine breaking through clouds, bringing warmth and light to places I didn't even know were dark. Your smile became my favorite sight, your laugh my favorite sound.<br><br>
-			This is where our beautiful story began, and I wouldn't change a single moment of it.`,
-			signature: 'With all my love, Your Partner ❤️'
+			title: 'The Beginning HAHAHA',
+			content: `Hello baby,<br><br>
+			This picture was the beginning,
+			imagine, dito nagsimula ang lahat HAHAHAHA.
+			From the very first time I saw you, I already knew you were special,
+			so precious to me, and that’s why I’ve always treated you like my princess.<br><br>
+			oa na kung oa pero totoo yon HAHAHA.
+			'di ako mag eeffort maggawa ng napaka tagal at napaka hirap na handmade na flower kung eme eme lang yan aa naman`,
+			signature: 'Lloydiee :33💕'
 		}
 	},
+
 	{
-		date: '2018',
-		title: 'First Date',
-		desc: 'Our first official date - butterflies and endless conversations.',
+		date: 'June 19, 2025',
+		title: 'First Meet',
+		desc: 'First meet na parang HAHAHAHA',
 		color: '#764ba2',
-		icon: '🌹',
-		photo: '1st/photos/2018b.jpg',
+		icon: '🌸',
+		photo: '1st/main/photos/firstPhotobooth.jpg',
 		letter: {
-			title: 'Butterflies & Dreams',
-			content: `My beautiful date,<br><br>
-			That first date was everything I hoped it would be and so much more. The butterflies in my stomach, the way time seemed to stand still when I was with you, the endless conversations that felt like we could talk forever.<br><br>
-			I knew from that moment that you were someone special, someone I wanted to know everything about. Your laugh, your stories, your dreams - they all captivated me completely.<br><br>
-			Thank you for that perfect first date that started it all.`,
-			signature: 'Your nervous but excited date 💕'
+			title: 'First Ever Meet',
+			content: `First meet, lasts!<br><br>
+			This was our very first photobooth together, 
+			look how close we were kahit first time pa lang.
+			I want our first meet to be memorable, alam mo naman yan kasi lagi ko nababanggit, and
+			I hope naging memorable din sayo ang first meet natin. <br><br>
+			And also, I believe that a good first meet really lasts.
+			What I mean is, if the first meet is boring or awkward, paano pa masusundan, right?
+			Kaya ayun, I’m so happy, and I hope you are too hehe.`,
+			signature: 'Lloydiee :33💕'
 		}
 	},
+
 	{
-		date: '2019',
-		title: 'First Kiss',
-		desc: 'The moment that sealed our fate together.',
+		date: 'July 14, 2025',
+		title: 'Second Meet',
+		desc: 'Second meet na nakita pa sila Frian :))',
 		color: '#f093fb',
-		icon: '💋',
-		photo: '1st/photos/2019.jpg',
+		icon: '🤭',
+		photo: '1st/main/photos/2ndbooth.jpg',
 		letter: {
-			title: 'Sealed with a Kiss',
-			content: `My first kiss,<br><br>
-			That first kiss was like fireworks exploding in my heart. Time stopped, the world disappeared, and it was just you and me in that perfect moment.<br><br>
-			I knew then that this was real, that what we had was something magical and rare. Your lips against mine felt like coming home, like finding the missing piece of my soul.<br><br>
-			That kiss changed everything - it was the moment I knew I was falling in love with you.`,
-			signature: 'Your first kiss 💋✨'
+			title: 'Second Meet',
+			content: `The Angle I Want,<br><br>
+			This was the time you came to Lipa and all I can say is I felt so special, 
+			especially when you mentioned that you never really visited your past dates. 
+			Then one time, nag-usap tayo and I found out na kaya ka pala nagpunta sa SM Lipa 
+			was not really for me, kundi gusto mo lang pala gumala HAHHAHAHA.<br><br>
+			But anyways, masaya pa rin ako kahit ganon yung na fefeel mo,
+			nakapag pictrue tayo ng angle na gusto ko hehe. 
+			Na-meet pa natin si Frian at ang bebe niya nang biglaan, nagkaroon pa ng biglaang business partner e.`,
+			signature: 'Lloydiee :33💕'
 		}
 	},
+	
+	
 	{
-		date: '2019',
-		title: 'First Trip',
-		desc: 'Our first adventure together - exploring new places.',
+		date: 'July 14, 2025',
+		title: 'Yogurt Date!',
+		desc: 'Still in SM with you',
 		color: '#4facfe',
-		icon: '✈️',
-		photo: '1st/photos/2019b.jpg',
+		icon: '🍨',
+		photo: '1st/main/photos/yogurtSM.jpg',
 		letter: {
-			title: 'Adventure Together',
-			content: `My adventurous soul,<br><br>
-			Our first trip together was everything I dreamed it would be and so much more. Every new place we discovered became magical because we discovered it together.<br><br>
-			I loved watching your eyes light up with wonder at each new sight, your excitement contagious and pure. We weren't just traveling to places - we were building our own little world wherever we went.<br><br>
-			Thank you for making every adventure feel like home, just because you were there.`,
-			signature: 'Your travel companion ✈️💕'
+			title: 'Yogurt with You',
+			content: `Last meet na ba?<br><br>
+			I really thought this is last time for us. After we stopped talking, 
+			I just kept looking at this photo, 'cause look at how happy we were in this moment, 
+			it felt so genuine to me. <br><br>
+			This was also the time when we talked about life and how we adjust whenever we're together, 
+			since we have different attitudes and perspectives in life, kaya it feels so different.`,
+			signature: 'Lloydiee :33💕'
 		}
 	},
 	{
-		date: '2020',
-		title: 'First "I Love You"',
-		desc: 'The words that changed everything between us.',
+		date: 'August 7, 2025',
+		title: 'BFC Comeback?',
+		desc: "Guess what, we're back HAHAHA",
 		color: '#43e97b',
 		icon: '💕',
-		photo: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjYwMCIgdmlld0JveD0iMCAwIDQwMCA2MDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNjAwIiBmaWxsPSIjNjY3ZWVhIi8+Cjx0ZXh0IHg9IjIwMCIgeT0iMjgwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSIgZm9udC1zaXplPSIyMCIgZm9udC1mYW1pbHk9IkFyaWFsIj7wn5mUIEZpcnN0IE1lZXRpbmc8L3RleHQ+Cjx0ZXh0IHg9IjIwMCIgeT0iMzIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSIgZm9udC1zaXplPSIxNiIgZm9udC1mYW1pbHk9IkFyaWFsIj4yMDE4PC90ZXh0Pgo8L3N2Zz4K',
+		photo: '1st/main/photos/ukay.jpeg',
 		letter: {
-			title: 'Three Little Words',
-			content: `My love,<br><br>	
-			Those three little words changed everything. "I love you" - simple words that carry the weight of the universe, the depth of oceans, the warmth of a thousand suns.<br><br>
-			Saying them to you felt like the most natural thing in the world, like breathing, like my heart beating. And hearing them back from you was like coming home to a place I never knew existed.<br><br>
-			Thank you for loving me back, for making my heart complete.`,
-			signature: 'Your love 💕💕💕'
+			title: "Who would've thought?",
+			content: `Mala Daniel Caesar e,<br><br>	
+			Who would've thought nga naman na masusundan pa pala yung second meet natin?
+			'Di ko talaga in-expect na mangyayari yun, given everything you told me. 
+			It was August 4, 2025, 12:38AM, biglang tumibok ng mabilis yung puso ko dahil sa kaba HAHAHAHA.
+			bigla-bigla ka na lang nag-chat e.<br><br>
+			Anyways, eto yung time na parang bumalik lahat ng saya sa akin, na para bang HAHAHAHA.
+			na fefeel ko na baka mag wowork this time kasi iba talaga yung pakiramdam e,
+			na parang we’re both doing better this time.<br><br>
+			Thank you for taking the risk with me, Joey.`,
+			signature: 'Lloydiee :33💕'
 		}
 	},
+	
 	{
-		date: '2020',
-		title: 'Overcoming Challenges',
-		desc: 'Faced obstacles together and came out stronger.',
+		date: 'August 13, 2025',
+		title: 'Your Birthday!',
+		desc: 'Her birthday with her friends.',
 		color: '#fa709a',
-		icon: '💪',
-		photo: '1st/photos/2020b.jpg',
-		letter: {
-			title: 'Stronger Together',
-			content: `My strength, my rock,<br><br>
-			When the world felt uncertain and scary, you were my constant. Through every challenge, every difficult moment, you stood by my side with unwavering love and support.<br><br>
-			You taught me that love isn't just about the good times - it's about being each other's shelter in the storm. You held my hand when I was scared, made me laugh when I wanted to cry, and reminded me that together, we could face anything.<br><br>
-			Thank you for being my anchor when the seas were rough.`,
-			signature: 'Your partner in everything 💪❤️'
-		}
-	},
-	{
-		date: '2021',
-		title: 'Moving In',
-		desc: 'The day we became roommates and started building our home.',
-		color: '#ff6b6b',
-		icon: '🏠',
-		photo: '1st/photos/2021.jpg',
-		letter: {
-			title: 'Our Home',
-			content: `My home, my heart,<br><br>
-			The day we moved in together, I knew I was exactly where I belonged. Every morning waking up next to you, every evening cooking together, every lazy Sunday spent in our little sanctuary - these became my favorite moments.<br><br>
-			You turned a house into our home, filled it with love, laughter, and countless memories. Every corner holds a story of us, every room echoes with our shared dreams.<br><br>
-			Thank you for making every day feel like coming home.`,
-			signature: 'Your home is my heart 🏠💕'
-		}
-	},
-	{
-		date: '2022',
-		title: 'First Anniversary',
-		desc: 'Celebrating one year of love and countless memories.',
-		color: '#4ecdc4',
 		icon: '🎂',
-		photo: '1st/photos/2022.jpg',
+		photo: '1st/main/photos/herBirthday.jpeg',
+		letter: {
+			title: `It's your day!`,
+			content: `So gorgeous!<br><br>
+			It’s your birthday, sadly wala ako to celebrate with you kasi may class ako, 
+			but still, you had your friends to celebrate with. May nag-surprise pa nga sayo 
+			at nag-effort talaga silang lahat. 
+			Swerte mo sa friends, love them the way you love yourself, and of course, love me differently 😝 <br><br>
+			I know you won’t believe me when I say you’re so pretty, gorgeous, beautiful, etc., 
+			kasi ayaw mo ng ganong compliments, pero kasi it’s the truth e. 
+			Look at the picture on the left side, tamo, apaka GORGEOUS!! 
+			Swerte ko naman na ganyan ka-ganda ang Girlfriend ko.<br><br>
+			Sasabihan mo na naman ako ng “iww”, “oa” HAHAHAHAHHA, basang-basa ko na galawan mo e.`,
+			signature: 'Lloydiee :33💕'
+		}
+	},
+	{
+		date: 'August 16, 2025',
+		title: 'Still her Birthday?!',
+		desc: 'Simple celebration with just us two.',
+		color: '#ff6b6b',
+		icon: '☕',
+		photo: '1st/main/photos/askher.jpeg',
+		letter: {
+			title: 'Still your Birthday',
+			content: `The Beginning ba ulit? HAHAHA<br><br>
+			This was the time we went out for a date to have a late celebration for your birthday.  
+			Every time we go out, it always feels so special walang dull moments with you e. 
+			Parang ayoko na umuwi sa amin kapag ikaw yung pinupuntahan ko or kapag kasama kita, huhu.<br><br>
+			This was also the day I asked you something with the letter I gave you, 
+			and you said “bad move.” Late ko na lang na-realize, “shet oo nga 'no” HAHAHAHA.<br><br>
+			Eto rin yung time na inihatid mo ako pauwi. Dapat mabilis lang kasi pahapon na, 
+			but umabot na ng gabi hanggang sa hindi na ako pinauwi at nakitulog na lang ako sa inyo aa huhu.  
+			But anyways, I’M SUPER HAPPY kasi you brought me home like sobrang assurance na yon for me.`,
+			signature: 'Lloydiee :33💕'
+		}
+	},
+	
+	{
+		date: 'August 16, 2025',
+		title: 'Home Run?',
+		desc: 'First time ever in my life mai-uwi mwehehe',
+		color: '#4ecdc4',
+		icon: '🏠',
+		photo: '1st/main/photos/herHome.mp4',
 		letter: {
 			title: 'One Year of Magic',
 			content: `My anniversary love,<br><br>
@@ -129,12 +163,12 @@ const timelineData = [
 		}
 	},
 	{
-		date: '2023',
-		title: 'Major Milestone',
-		desc: 'A big achievement that brought us even closer.',
+		date: 'August 16, 2025',
+		title: 'With Suzy!',
+		desc: 'Picture with Suzy cutieee',
 		color: '#45b7d1',
-		icon: '🎉',
-		photo: '1st/photos/2023.jpg',
+		icon: '🐾',
+		photo: '1st/main/photos/withSuzy.jpeg',
 		letter: {
 			title: 'Celebrating Us',
 			content: `My celebration, my joy,<br><br>
@@ -145,12 +179,12 @@ const timelineData = [
 		}
 	},
 	{
-		date: '2024',
-		title: 'Growing Together',
-		desc: 'Another year of love, growth, and shared dreams.',
+		date: 'August 23, 2025',
+		title: 'Flowers',
+		desc: 'Cute flowers for her!',
 		color: '#96ceb4',
-		icon: '🌱',
-		photo: '1st/photos/2024.jpg',
+		icon: '🌺',
+		photo: '1st/main/photos/flowers.jpg',
 		letter: {
 			title: 'Growing in Love',
 			content: `My growing love,<br><br>
@@ -161,12 +195,12 @@ const timelineData = [
 		}
 	},
 	{
-		date: '2025',
-		title: 'Today',
-		desc: 'Still growing, learning, and loving every moment together.',
+		date: 'August 23, 2025',
+		title: 'Home Run Again??',
+		desc: 'OTW sa amin HAAHHHA',
 		color: '#feca57',
-		icon: '💖',
-		photo: '1st/photos/2025.jpg',
+		icon: '🚗',
+		photo: '1st/main/photos/carFave.jpg',
 		letter: {
 			title: 'Forever & Always',
 			content: `My forever, my always,<br><br>
@@ -177,12 +211,12 @@ const timelineData = [
 		}
 	},
 	{
-		date: '2018',
-		title: 'First Laugh',
-		desc: 'The moment your laugh became my favorite sound.',
+		date: 'August 23, 2025',
+		title: 'Touch down HAHA',
+		desc: 'Shy type e nung nasa amin na HAHAHA',
 		color: '#ff9ff3',
-		icon: '😂',
-		photo: '1st/photos/2018c.jpg',
+		icon: '🏡',
+		photo: '1st/main/photos/samin.mp4',
 		letter: {
 			title: 'Your Laugh',
 			content: `My joy, my happiness,<br><br>
@@ -193,12 +227,12 @@ const timelineData = [
 		}
 	},
 	{
-		date: '2019',
-		title: 'First Fight',
-		desc: 'Our first disagreement and how we worked through it.',
+		date: 'August 23, 2025',
+		title: 'Family Lunch',
+		desc: 'Meet my family and eat lunch with them',
 		color: '#ff6b6b',
-		icon: '🤝',
-		photo: '1st/photos/2019c.jpg',
+		icon: '💕',
+		photo: '1st/main/photos/fam2.jpg',
 		letter: {
 			title: 'Stronger Together',
 			content: `My partner in growth,<br><br>
@@ -209,12 +243,12 @@ const timelineData = [
 		}
 	},
 	{
-		date: '2020',
-		title: 'First Surprise',
-		desc: 'The first time I surprised you and saw your beautiful reaction.',
+		date: 'August 23, 2025',
+		title: 'Photobooth w/ thrill?',
+		desc: 'Photo booth for the month of August',
 		color: '#a8e6cf',
-		icon: '🎁',
-		photo: '1st/photos/2020c.jpg',
+		icon: '🫣',
+		photo: '1st/main/photos/photoSM.mp4',
 		letter: {
 			title: 'Your Surprise',
 			content: `My beautiful surprise,<br><br>
@@ -225,12 +259,12 @@ const timelineData = [
 		}
 	},
 	{
-		date: '2021',
-		title: 'First Pet',
-		desc: 'The day we got our first pet together.',
+		date: 'august 23, 2025',
+		title: 'Four couples!',
+		desc: 'Picuture with four couples',
 		color: '#ffd93d',
-		icon: '🐾',
-		photo: '1st/photos/2021b.jpg',
+		icon: '🫘',
+		photo: '1st/main/photos/withBrother.jpeg',
 		letter: {
 			title: 'Our Little Family',
 			content: `My co-parent,<br><br>
@@ -241,12 +275,12 @@ const timelineData = [
 		}
 	},
 	{
-		date: '2022',
-		title: 'First Holiday',
-		desc: 'Our first holiday celebration together as a couple.',
+		date: 'August 23, 2025',
+		title: 'Shy type HAHAH',
+		desc: 'pipic lang e nahiya pa yan sha',
 		color: '#ff8a80',
-		icon: '🎄',
-		photo: '1st/photos/2022b.jpg',
+		icon: '🎀',
+		photo: '1st/main/photos/shyCoffeebeans.jpg',
 		letter: {
 			title: 'Holiday Magic',
 			content: `My holiday love,<br><br>
@@ -257,12 +291,12 @@ const timelineData = [
 		}
 	},
 	{
-		date: '2023',
-		title: 'First Project',
-		desc: 'The first big project we tackled together.',
+		date: 'August 30, 2025',
+		title: 'Samgy date<33',
+		desc: 'Samgy date na para bang hindi diet HAHAHAHA',
 		color: '#81c784',
-		icon: '🔨',
-		photo: '1st/photos/2023b.jpg',
+		icon: '🥓🥬🍚',
+		photo: '1st/main/photos/samgy.mp4',
 		letter: {
 			title: 'Teamwork Makes the Dream Work',
 			content: `My project partner,<br><br>
@@ -273,12 +307,12 @@ const timelineData = [
 		}
 	},
 	{
-		date: '2024',
-		title: 'First Adventure',
-		desc: 'Our first big adventure and the memories we made.',
+		date: 'September 6, 2025',
+		title: "She's mine!",
+		desc: 'The day i will never forget!',
 		color: '#64b5f6',
-		icon: '🗺️',
-		photo: '1st/photos/2024b.jpg',
+		icon: '💞',
+		photo: '1st/main/photos/saidYes.mp4',
 		letter: {
 			title: 'Adventure Awaits',
 			content: `My adventure buddy,<br><br>
@@ -289,12 +323,12 @@ const timelineData = [
 		}
 	},
 	{
-		date: '2025',
-		title: 'Future Dreams',
+		date: 'September 6, 2025',
+		title: 'Date with her',
 		desc: 'All the dreams we have for our future together.',
 		color: '#ba68c8',
-		icon: '🌈',
-		photo: '1st/photos/2025b.jpg',
+		icon: '🥰',
+		photo: '1st/main/photos/yesyes.jpg',
 		letter: {
 			title: 'Our Future',
 			content: `My dream partner,<br><br>
@@ -303,16 +337,78 @@ const timelineData = [
 			Thank you for sharing your dreams with me and making them ours.`,
 			signature: 'Your future 💫🌈'
 		}
+	},
+	{
+		date: 'September 13, 2025',
+		title: 'Far from home?!',
+		desc: 'PG to LB HAHHAHAHA',
+		color: '#ffb347',
+		icon: '🍓',
+		photo: '1st/main/photos/swing.jpg',
+		letter: {
+			title: 'Cuddle & Popcorn',
+			content: `Our first movie night was so cozy. I loved every minute snuggled up with you, laughing and sharing popcorn. Can't wait for more!`,
+			signature: 'Your movie buddy 🍿'
+		}
+	},
+	{
+		date: 'September 13, 2025',
+		title: 'Fave live photo',
+		desc: 'Tampo pa yan sha HAHAHHA',
+		color: '#6dd5ed',
+		icon: '💗ྀི',
+		photo: '1st/main/photos/tampo.mp4',
+		letter: {
+			title: 'Tampo tampuhan e HAHAHHA',
+			content: `Who knew rain could be so much fun? Dancing with you in the rain made me feel alive and free. Let's never stop being silly together!`,
+			signature: 'Your rain dancer ☔'
+		}
+	},
+	{
+		date: 'September 13, 2025',
+		title: 'Candid picture',
+		desc: 'A candid picture with her',
+		color: '#b388ff',
+		icon: '📸',
+		photo: '1st/main/photos/back.png',
+		letter: {
+			title: 'Coffee & Conversations',
+			content: `Our coffee date was filled with laughter and deep talks. I love discovering new places and new things about you.`,
+			signature: 'Your coffee mate 💜'
+		}
+	},
+	{
+		date: 'September 20, 2025',
+		title: 'S&R Salad!',
+		desc: 'Before the sakuna(massage na napakasakit)',
+		color: '#ff6e7f',
+		icon: '🥗',
+		photo: '1st/main/photos/pizzaSalad.jpg',
+		letter: {
+			title: 'Chasing Sunsets',
+			content: `The sunset was beautiful, but nothing compares to sharing it with you. Thank you for making every moment magical.`,
+			signature: 'Your sunset chaser 🌇'
+		}
+	},
+	{
+		date: 'September 20, 2025',
+		title: 'Another coffee date',
+		desc: 'A quality time with her',
+		color: '#43cea2',
+		icon: '☕',
+		photo: '1st/main/photos/walter.jpg',
+		letter: {
+			title: 'A Little Surprise',
+			content: `Seeing your smile when you got my surprise made my day. I love making you happy!`,
+			signature: 'Your secret gifter 🎉'
+		}
 	}
 ];
-
-// Global variables
 let particles = [];
 let isMouseMoving = false;
 let mousePosition = { x: 0, y: 0 };
 let animationFrameId = null;
 
-// Particle system
 class Particle {
 	constructor(x, y, color = '#ffffff') {
 		this.x = x;
@@ -350,7 +446,6 @@ class Particle {
 	}
 }
 
-// Create floating particles
 function createFloatingParticles() {
 	const particlesContainer = document.getElementById('particles');
 	if (!particlesContainer) return;
@@ -365,83 +460,35 @@ function createFloatingParticles() {
 	}
 }
 
-// Enhanced 3D Timeline Rendering
 function render3DTimeline() {
 	const orbsContainer = document.getElementById('timeline-orbs');
 	if (!orbsContainer) return;
 
 	orbsContainer.innerHTML = '';
 
-	// Responsive layout calculations
-	const w = orbsContainer.offsetWidth;
-	const h = orbsContainer.offsetHeight;
-	const cx = w / 2;
-	const cy = h * 0.55;
-	const r = Math.min(w, h) * 0.35;
-	const orbSize = Math.max(40, Math.min(w, h) * 0.08);
-
-	// Calculate random positions with collision detection
-	const orbPositions = [];
-	const margin = 80; // Keep orbs away from edges
-	const minDistance = 120; // Minimum distance between orbs
-	const maxAttempts = 100; // Maximum attempts to find a valid position
-	
-	for (let i = 0; i < timelineData.length; i++) {
-		let attempts = 0;
-		let validPosition = false;
-		let position;
-		
-		while (!validPosition && attempts < maxAttempts) {
-			// Generate random position
-			const randomX = margin + Math.random() * (w - 2 * margin);
-			const randomY = margin + Math.random() * (h - 2 * margin);
-			
-			position = {
-				x: randomX,
-				y: randomY,
-				index: i
-			};
-			
-			// Check if this position is far enough from existing orbs
-			validPosition = true;
-			for (let j = 0; j < orbPositions.length; j++) {
-				const existingPos = orbPositions[j];
-				const distance = Math.sqrt(
-					Math.pow(position.x - existingPos.x, 2) + 
-					Math.pow(position.y - existingPos.y, 2)
-				);
-				
-				if (distance < minDistance) {
-					validPosition = false;
-					break;
-				}
-			}
-			
-			attempts++;
-		}
-		
-		// If we couldn't find a valid position, use the last generated one
-		orbPositions.push(position);
-	}
-
-	// Don't create connections - orbs float freely
-
-	// Create enhanced orbs with varied sizes and effects
-	createEnhancedOrbs(orbsContainer, orbPositions, orbSize);
-
-	// Setup enhanced interactions
+	orbsContainer.innerHTML = '';
+	const baseOrbSize = 80;
+	timelineData.forEach((data, i) => {
+		const orb = document.createElement('div');
+		orb.className = 'orb';
+		orb.style.marginTop = (i % 2 === 0) ? '0px' : '40px';
+		orb.style.marginBottom = (i % 2 === 0) ? '40px' : '0px';
+		orb.style.width = baseOrbSize + 'px';
+		orb.style.height = baseOrbSize + 'px';
+		orb.style.background = `linear-gradient(135deg, ${data.color} 0%, #764ba2 100%)`;
+		orb.innerHTML = `<div class="orb-content">${data.icon}<br>${data.title}</div>`;
+		orb.addEventListener('click', () => openMemoryModal(data));
+		orbsContainer.appendChild(orb);
+	});
 	setupEnhancedInteractions(orbsContainer);
 }
 
-// Create enhanced SVG connections with flowing energy
 function createEnhancedConnections(svg, positions) {
 	const gradId = 'orb-connector-gradient';
 	const energyGradId = 'energy-gradient';
 	
-	// Create gradients
 	const defs = document.createElementNS('http://www.w3.org/2000/svg', 'defs');
 	
-	// Main gradient
 	const grad = document.createElementNS('http://www.w3.org/2000/svg', 'linearGradient');
 	grad.setAttribute('id', gradId);
 	grad.setAttribute('x1', '0%');
@@ -466,7 +513,6 @@ function createEnhancedConnections(svg, positions) {
 	grad.appendChild(stop3);
 	defs.appendChild(grad);
 
-	// Energy flow gradient
 	const energyGrad = document.createElementNS('http://www.w3.org/2000/svg', 'linearGradient');
 	energyGrad.setAttribute('id', energyGradId);
 	energyGrad.setAttribute('x1', '0%');
@@ -496,14 +542,12 @@ function createEnhancedConnections(svg, positions) {
 
 	svg.appendChild(defs);
 
-	// Create connection paths
 	for (let i = 0; i < positions.length - 1; i++) {
 		const p1 = positions[i];
 		const p2 = positions[i + 1];
 		const mx = (p1.x + p2.x) / 2;
 		const my = (p1.y + p2.y) / 2 - 30;
 
-		// Main connection path
 		const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
 		path.setAttribute('d', `M${p1.x},${p1.y} Q${mx},${my} ${p2.x},${p2.y}`);
 		path.setAttribute('stroke', `url(#${gradId})`);
@@ -513,7 +557,6 @@ function createEnhancedConnections(svg, positions) {
 		path.setAttribute('filter', 'drop-shadow(0 0 10px rgba(102, 126, 234, 0.5))');
 		svg.appendChild(path);
 
-		// Energy flow effect
 		const energyPath = document.createElementNS('http://www.w3.org/2000/svg', 'path');
 		energyPath.setAttribute('d', `M${p1.x},${p1.y} Q${mx},${my} ${p2.x},${p2.y}`);
 		energyPath.setAttribute('stroke', `url(#${energyGradId})`);
@@ -525,14 +568,12 @@ function createEnhancedConnections(svg, positions) {
 	}
 }
 
-// Create enhanced orbs with varied sizes and effects
 function createEnhancedOrbs(container, positions, baseOrbSize) {
 	timelineData.forEach((event, idx) => {
 		const orb = document.createElement('div');
 		orb.className = 'orb';
 		
-		// Create varied orb sizes for more visual interest
-		const sizeVariation = 0.8 + Math.random() * 0.4; // 80% to 120% of base size
+		const sizeVariation = 0.8 + Math.random() * 0.4;
 		const currentOrbSize = baseOrbSize * sizeVariation;
 		
 		orb.style.left = `${positions[idx].x - currentOrbSize / 2}px`;
@@ -541,20 +582,17 @@ function createEnhancedOrbs(container, positions, baseOrbSize) {
 		orb.style.zIndex = 10 + idx;
 		orb.style.animationDelay = `${0.2 + idx * 0.12}s`;
 		
-		// Create dynamic gradients with random angles
 		const gradientAngle = Math.random() * 360;
 		orb.style.background = `linear-gradient(${gradientAngle}deg, ${event.color} 0%, ${event.color}dd 50%, ${event.color}aa 100%)`;
-		
-		// Add random floating animation
+
 		const animations = ['orb-float-individual', 'orb-drift', 'orb-float'];
 		const randomAnimation = animations[Math.floor(Math.random() * animations.length)];
-		const animationDuration = 4 + Math.random() * 3; // 4-7 seconds
-		const animationDelay = Math.random() * 2; // 0-2 seconds delay
+		const animationDuration = 4 + Math.random() * 3;
+		const animationDelay = Math.random() * 2; 
 		
 		orb.style.animation = `${randomAnimation} ${animationDuration}s ease-in-out infinite`;
 		orb.style.animationDelay = `${animationDelay}s`;
 
-		// Create orb content with icon
 		const content = document.createElement('div');
 		content.className = 'orb-content';
 		content.innerHTML = `
@@ -565,7 +603,6 @@ function createEnhancedOrbs(container, positions, baseOrbSize) {
 
 		orb.appendChild(content);
 
-		// Enhanced hover effects
 		orb.addEventListener('mouseenter', () => {
 			orb.style.transform = `scale(1.3) translateZ(20px)`;
 			orb.style.boxShadow = `
@@ -581,7 +618,6 @@ function createEnhancedOrbs(container, positions, baseOrbSize) {
 				<div style="font-size:0.7em;font-weight:400;line-height:1.3;">${event.desc}</div>
 			`;
 			
-			// Create particle burst
 			createParticleBurst(positions[idx].x, positions[idx].y, event.color);
 		});
 
@@ -595,7 +631,6 @@ function createEnhancedOrbs(container, positions, baseOrbSize) {
 			`;
 		});
 
-		// Click effect - Open memory modal
 		orb.addEventListener('click', () => {
 			createClickWave(positions[idx].x, positions[idx].y, event.color);
 			openMemoryModal(event);
@@ -605,7 +640,6 @@ function createEnhancedOrbs(container, positions, baseOrbSize) {
 	});
 }
 
-// Create particle burst effect
 function createParticleBurst(x, y, color) {
 	for (let i = 0; i < 15; i++) {
 		const particle = new Particle(x, y, color);
@@ -617,7 +651,6 @@ function createParticleBurst(x, y, color) {
 	}
 }
 
-// Create click wave effect
 function createClickWave(x, y, color) {
 	const wave = document.createElement('div');
 	wave.style.position = 'absolute';
@@ -634,7 +667,6 @@ function createClickWave(x, y, color) {
 	
 	document.body.appendChild(wave);
 	
-	// Animate wave
 	const animation = wave.animate([
 		{ width: '0px', height: '0px', opacity: '1' },
 		{ width: '200px', height: '200px', opacity: '0' }
@@ -648,7 +680,6 @@ function createClickWave(x, y, color) {
 	};
 }
 
-// Setup enhanced interactions
 function setupEnhancedInteractions(container) {
 	let mouseTimeout;
 	
@@ -658,7 +689,6 @@ function setupEnhancedInteractions(container) {
 		mousePosition.x = e.clientX - rect.left;
 		mousePosition.y = e.clientY - rect.top;
 		
-		// Enhanced parallax effect
 		document.querySelectorAll('.orb').forEach((orb, i) => {
 			const mx = (mousePosition.x / rect.width - 0.5) * 2;
 			const my = (mousePosition.y / rect.height - 0.5) * 2;
@@ -672,7 +702,6 @@ function setupEnhancedInteractions(container) {
 			`;
 		});
 		
-		// Create mouse trail particles
 		if (Math.random() < 0.3) {
 			const particle = new Particle(mousePosition.x, mousePosition.y, '#ffffff');
 			particle.size = Math.random() * 2 + 1;
@@ -698,10 +727,9 @@ function setupEnhancedInteractions(container) {
 	};
 }
 
-// Memory Modal Functions
 function openMemoryModal(memoryData) {
 	console.log('Opening modal with:', memoryData);
-	
+
 	const modal = document.getElementById('memory-modal');
 	const photo = document.getElementById('memory-photo');
 	const photoDate = document.getElementById('photo-date');
@@ -709,61 +737,67 @@ function openMemoryModal(memoryData) {
 	const letterTitle = document.getElementById('letter-title');
 	const letterContent = document.getElementById('letter-content');
 	const letterSignature = document.getElementById('letter-signature');
-	
+
 	if (!modal) {
 		console.error('Modal not found!');
 		return;
 	}
-	
+
 	if (!photo) {
 		console.error('Photo element not found!');
 		return;
 	}
-	
-	console.log('Setting photo src to:', memoryData.photo);
-	
-	// Clear any previous image
+
+	const parent = photo.parentNode;
+	const existingVideos = parent.querySelectorAll('video.memory-photo');
+	existingVideos.forEach(v => v.remove());
 	photo.src = '';
-	
-	// Create a new image to test if it loads
-	const testImg = new Image();
-	testImg.onload = function() {
-		console.log('Image loaded successfully:', memoryData.photo);
-		// Set the actual photo source
-		photo.src = memoryData.photo;
-		photo.alt = `${memoryData.title} - ${memoryData.date}`;
-		
-		// Ensure photo is visible
+	photo.alt = '';
+	photo.style.display = 'none';
+
+	if (memoryData.photo && memoryData.photo.endsWith('.mp4')) {
+		const videoElem = document.createElement('video');
+		videoElem.src = memoryData.photo;
+		videoElem.className = 'memory-photo';
+		videoElem.autoplay = true;
+		videoElem.muted = true;
+		videoElem.controls = true;
+		videoElem.playsInline = true;
+		videoElem.loop = true;
+		videoElem.style.display = 'block';
+		videoElem.style.opacity = '1';
+		videoElem.style.visibility = 'visible';
+		videoElem.style.width = '100%';
+		videoElem.style.height = '100%';
+		parent.insertBefore(videoElem, photo);
+	} else {	
+		const testImg = new Image();
+		testImg.onload = function() {
+			photo.src = memoryData.photo;
+			photo.alt = `${memoryData.title} - ${memoryData.date}`;
+			photo.style.display = 'block';
+			photo.style.opacity = '1';
+			photo.style.visibility = 'visible';
+		};
+		testImg.onerror = function() {
+			const fallbackUrl = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjYwMCIgdmlld0JveD0iMCAwIDQwMCA2MDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNjAwIiBmaWxsPSIjNjY3ZWVhIi8+Cjx0ZXh0IHg9IjIwMCIgeT0iMzAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSIgZm9udC1zaXplPSIyNCIgZm9udC1mYW1pbHk9IkFyaWFsIj5QaG90byBOb3QgRm91bmQ8L3RleHQ+Cjwvc3ZnPgo=';
+			photo.src = fallbackUrl;
+			photo.alt = `${memoryData.title} - ${memoryData.date} (Photo not found)`;
+			photo.style.display = 'block';
+			photo.style.opacity = '1';
+			photo.style.visibility = 'visible';
+		};
+		testImg.src = memoryData.photo;
 		photo.style.display = 'block';
-		photo.style.opacity = '1';
-		photo.style.visibility = 'visible';
-		
-		console.log('Photo element dimensions:', photo.offsetWidth, 'x', photo.offsetHeight);
-	};
-	
-	testImg.onerror = function() {
-		console.error('Failed to load image:', memoryData.photo);
-		// Use a guaranteed working placeholder
-		const fallbackUrl = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjYwMCIgdmlld0JveD0iMCAwIDQwMCA2MDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNjAwIiBmaWxsPSIjNjY3ZWVhIi8+Cjx0ZXh0IHg9IjIwMCIgeT0iMzAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSIgZm9udC1zaXplPSIyNCIgZm9udC1mYW1pbHk9IkFyaWFsIj5QaG90byBOb3QgRm91bmQ8L3RleHQ+Cjwvc3ZnPgo=';
-		photo.src = fallbackUrl;
-		photo.alt = `${memoryData.title} - ${memoryData.date} (Photo not found)`;
-		photo.style.display = 'block';
-		photo.style.opacity = '1';
-		photo.style.visibility = 'visible';
-	};
-	
-	// Start loading the image
-	testImg.src = memoryData.photo;
-	
+	}
+
 	photoDate.textContent = memoryData.date;
 	photoTitle.textContent = memoryData.title;
-	
-	// Set letter
+
 	letterTitle.textContent = memoryData.letter.title;
 	letterContent.innerHTML = memoryData.letter.content;
 	letterSignature.innerHTML = memoryData.letter.signature;
-	
-	// Show modal with animation
+
 	modal.style.display = 'flex';
 	setTimeout(() => {
 		modal.classList.add('show');
@@ -772,8 +806,18 @@ function openMemoryModal(memoryData) {
 
 function closeMemoryModal() {
 	const modal = document.getElementById('memory-modal');
+	const photo = document.getElementById('memory-photo');
 	if (!modal) return;
-	
+
+	if (photo && photo.parentNode) {
+		const parent = photo.parentNode;
+		const existingVideos = parent.querySelectorAll('video.memory-photo');
+		existingVideos.forEach(v => v.remove());
+		photo.src = '';
+		photo.alt = '';
+		photo.style.display = 'none';
+	}
+
 	modal.classList.remove('show');
 	setTimeout(() => {
 		modal.style.display = 'none';
@@ -790,7 +834,6 @@ function setupMemoryModal() {
 	closeBtn.addEventListener('click', closeMemoryModal);
 	backdrop.addEventListener('click', closeMemoryModal);
 	
-	// Close on escape key
 	document.addEventListener('keydown', (e) => {
 		if (e.key === 'Escape' && modal.classList.contains('show')) {
 			closeMemoryModal();
@@ -798,7 +841,6 @@ function setupMemoryModal() {
 	});
 }
 
-// Enhanced intro modal setup
 function setupIntroModal() {
 	const modal = document.getElementById('intro-modal');
 	const closeBtn = document.getElementById('close-intro');
@@ -808,7 +850,6 @@ function setupIntroModal() {
 	closeBtn.addEventListener('click', () => {
 		modal.classList.add('hide');
 		
-		// Create exit animation particles
 		for (let i = 0; i < 30; i++) {
 			const particle = new Particle(
 				window.innerWidth / 2,
@@ -825,7 +866,6 @@ function setupIntroModal() {
 		}, 800);
 	});
 	
-	// Add button hover effects
 	closeBtn.addEventListener('mouseenter', () => {
 		closeBtn.style.transform = 'translateY(-3px) scale(1.05)';
 	});
@@ -835,7 +875,6 @@ function setupIntroModal() {
 	});
 }
 
-// Particle animation loop
 function animateParticles() {
   const container = document.getElementById('particles');
   if (!container) return;
@@ -852,7 +891,6 @@ function animateParticles() {
   }
 }
 
-// Add CSS animations dynamically
 function addDynamicStyles() {
 	const style = document.createElement('style');
 	style.textContent = `
@@ -872,7 +910,6 @@ function addDynamicStyles() {
 	document.head.appendChild(style);
 }
 
-// Initialize everything
 function init() {
 	createFloatingParticles();
 	render3DTimeline();
@@ -880,13 +917,12 @@ function init() {
 	addDynamicStyles();
 	animateParticles();
 	
-	// Handle window resize
 	window.addEventListener('resize', () => {
 		clearTimeout(window.resizeTimeout);
 		window.resizeTimeout = setTimeout(render3DTimeline, 250);
 	});
 	
-	// Add scroll indicator animation
+
 	const scrollIndicator = document.querySelector('.scroll-indicator');
 	if (scrollIndicator) {
 		setTimeout(() => {
@@ -895,12 +931,10 @@ function init() {
 	}
 }
 
-// Show loading screen function
 function showLoadingScreen() {
 	const loadingScreen = document.getElementById('loading-screen');
 	if (!loadingScreen) return;
 	
-	// Hide loading screen after 2 seconds and show intro modal
 	setTimeout(() => {
 		loadingScreen.classList.add('hide');
 		setTimeout(() => {
@@ -909,7 +943,6 @@ function showLoadingScreen() {
 	}, 2000);
 }
 
-// Initialize everything properly
 function init() {
 	createFloatingParticles();
 	render3DTimeline();
@@ -918,7 +951,6 @@ function init() {
 	addDynamicStyles();
 	animateParticles();
 	
-	// Handle window resize
 	window.addEventListener('resize', () => {
 		clearTimeout(window.resizeTimeout);
 		window.resizeTimeout = setTimeout(() => {
@@ -928,17 +960,14 @@ function init() {
 	});
 }
 
-// Start the epic timeline
 window.addEventListener('DOMContentLoaded', () => {
 	showLoadingScreen();
 	
-	// Initialize everything after loading screen
 	setTimeout(() => {
 		init();
 	}, 2500);
 });
 
-// Cleanup on page unload
 window.addEventListener('beforeunload', () => {
 	if (animationFrameId) {
 		cancelAnimationFrame(animationFrameId);
