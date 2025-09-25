@@ -46,7 +46,7 @@ const timelineData = [
 		desc: 'Second meet na nakita pa sila Frian :))',
 		color: '#f093fb',
 		icon: '🤭',
-		photo: '1st/main/photos/2ndbooth.jpg',
+		photo: '1st/main/photos/2ndbooth.JPG',
 		letter: {
 			title: 'Second Meet',
 			content: `The Angle I Want,<br><br>
