@@ -5,11 +5,7 @@ const timelineData = [
 		desc: "Ito talaga yung picture na hindi ko makakalimutan.",
 		color: '#667eea',
 		icon: '👀',
-<<<<<<< HEAD
 		photo: '1st/main/photos/firstPic.jpeg',
-=======
-		photo: '1st/main/photos/photo1.jpg',
->>>>>>> d51b119e9016bd6e1200cf75c29b333acd1a03a3
 		letter: {
 			title: 'The Beginning HAHAHA',
 			content: `Hello baby,<br><br>
