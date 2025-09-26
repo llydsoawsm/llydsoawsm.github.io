@@ -139,45 +139,56 @@ const timelineData = [
 			Parang ayoko na umuwi sa amin kapag ikaw yung pinupuntahan ko or kapag kasama kita, huhu.<br><br>
 			This was also the day I asked you something with the letter I gave you, 
 			and you said “bad move.” Late ko na lang na-realize, “shet oo nga 'no” HAHAHAHA.<br><br>
-			Eto rin yung time na inihatid mo ako pauwi. Dapat mabilis lang kasi pahapon na, 
-			but umabot na ng gabi hanggang sa hindi na ako pinauwi at nakitulog na lang ako sa inyo aa huhu.  
+			Eto rin yung time na inuwi mo ako sa inyo. Dapat mabilis lang kasi pahapon na, 
+			pero umabot na ng gabi hanggang sa hindi na ako pinauwi at nakitulog na lang ako sa inyo aa huhu.  
 			But anyways, I’M SUPER HAPPY kasi you brought me home like sobrang assurance na yon for me.`,
 			signature: 'Lloydiee :33💕'
 		}
 	},
-	
-	{
+		{
 		date: 'August 16, 2025',
 		title: 'Home Run?',
-		desc: 'First time ever in my life mai-uwi mwehehe',
+		desc: 'Her home with me mwhehe',
 		color: '#4ecdc4',
 		icon: '🏠',
 		photo: '1st/main/photos/herHome.mp4',
 		letter: {
-			title: 'One Year of Magic',
-			content: `My anniversary love,<br><br>
-			One year of you, one year of us, one year of the most beautiful love story I could have ever imagined. Every day with you has been a gift, every moment a treasure.<br><br>
-			We've laughed together, cried together, grown together, and loved together. You've made every ordinary day extraordinary, every moment magical.<br><br>
-			Here's to our first year and to many, many more years of love ahead.`,
-			signature: 'Your anniversary sweetheart 🎂💖'
+			title: 'Touchdown guys',
+			content: `Hello Joey,<br><br>
+			I just wanna say that I'm so happy kasi inuwi mo ako sa inyo.
+			I really can't believe na ipinakilala mo ako sa parents mo and sa mga kapatid mo agad-agad.
+			Grabe yung kaba ko kahit hindi pasmado, nababasa kamay ko e HAHAHHAHA.
+			<br><br>
+			Thank you for bringing me home. Just like what I've said, isang malaking assurance 'yon for me.
+			'Di mo naman siguro ako iuuwi kung hindi ka sure sakin e, tama ba? HAHAHA.
+			<br><br>
+			Tamo naman kung gaano ka ka-clingy nung nasa inyo na tayo. Sadya namang dikit kung dikit e. Tamo, may pag halik pa.`,
+			signature: 'Lloydiee :33💕'
 		}
 	},
-	{
-		date: 'August 16, 2025',
-		title: 'With Suzy!',
-		desc: 'Picture with Suzy cutieee',
-		color: '#45b7d1',
-		icon: '🐾',
-		photo: '1st/main/photos/withSuzy.jpeg',
-		letter: {
-			title: 'Celebrating Us',
-			content: `My celebration, my joy,<br><br>
-			This milestone wasn't just about what we achieved - it was about celebrating who we've become together. Every challenge we've faced, every dream we've chased, every moment we've shared has led us here.<br><br>
-			I'm so proud of us, of our journey, of the love we've built. You've been my biggest cheerleader, my greatest supporter, and my most beautiful inspiration.<br><br>
-			Here's to many more celebrations together, my love.`,
-			signature: 'Your proudest supporter 🎉💖'
-		}
-	},
+
+		{
+			date: 'August 16, 2025',
+			title: 'With Suzy!',
+			desc: 'Picture with Suzy cutieee',
+			color: '#45b7d1',
+			icon: '🐾',
+			photo: '1st/main/photos/withSuzy.jpeg',
+			letter: {
+				title: 'With pretty Suzy ',
+				content: `Pic with Suzy,<br><br>
+				Look how cute this picture is. 
+				Sinama ko talaga 'to sa timeline natin kasi wala lang, 
+				ang cute lang talaga kasi e.
+				<br><br>
+				Ang iyong anak na minsan ay amoy tubal, pero at least malambing diba.
+				Isang tunog lang sa plato, lalapit agad e.
+				Sarap iuwi. Peram ako mga 1 week balik ko din agad HAHHAHHA.
+				<br><br>`,
+				signature: 'Lloydiee :33💕'
+			}
+		},
+
 	{
 		date: 'August 23, 2025',
 		title: 'Flowers',
@@ -186,12 +197,22 @@ const timelineData = [
 		icon: '🌺',
 		photo: '1st/main/photos/flowers.jpg',
 		letter: {
-			title: 'Growing in Love',
-			content: `My growing love,<br><br>
-			Like a beautiful garden, our love keeps growing stronger, deeper, more beautiful with each passing day. We've learned to nurture each other, to grow together, to bloom in each other's light.<br><br>
-			Every challenge has made us stronger, every joy has made us happier, every moment has made us more in love. We're not just growing older together - we're growing better together.<br><br>
-			Thank you for growing with me, for growing into the most amazing partner I could have ever dreamed of.`,
-			signature: 'Your growing love 🌱💕'
+			title: 'Simple Flowers',
+			content: `Wrong move?,<br><br>
+			This is the time na nag punta ako sa inyo para sunduin ka at ipakilala sa family ko.
+			Ang sarap sa feeling na nag paalam ako sa parents mo na iuuwi kita at ibabalik din kita after kumain and all.
+			Then sabi ni tita wag na daw kita ibalik, saka na po tita mag mag lilive in na kami😱
+			ay HAHAHAAHAHAHA.
+			<br><br>
+			I bought you flowers kasi you deserve it and also para maging official suitor mo ako HHAAHHHAHA.
+			ang cute nga e color green, pink and white, 
+			first time ko lang din maka kita ng green na flowers kasi puro pink and white lang din e.
+			<br><br>
+			Thank you kasi pumayag ka na iuwi kita sa amin at makilala ng family ko, 
+			ang sarap sa feeling na sumama ka sakin na para bang wala kang choice HAHAHAHA. 
+			kidding asside, so so happy na makikilala ka ng family ko. 
+			First time ko magpapakilala sa kanila kaya papunta at pabalik sa amin sobrang kinakabahan ako.`,
+			signature: 'Lloydiee :33💕'
 		}
 	},
 	{
@@ -202,12 +223,20 @@ const timelineData = [
 		icon: '🚗',
 		photo: '1st/main/photos/carFave.jpg',
 		letter: {
-			title: 'Forever & Always',
-			content: `My forever, my always,<br><br>
-			Today, tomorrow, and every day after - I choose you. I choose us. I choose this beautiful life we've built together, filled with love, laughter, and endless possibilities.<br><br>
-			Every morning I wake up grateful that you're mine, every night I fall asleep dreaming of our future together. You are my greatest adventure, my sweetest dream, my most beautiful reality.<br><br>
-			I love you more than words can say, more than time can measure, more than forever can hold.`,
-			signature: 'Yours forever and always 💖✨'
+			title: 'On the Way HAHA',
+			content: `One of my fave pic,<br><br>
+			Ayan na ang moment na inintay ng lahat, on the way papunta sa amin.
+			To be honest, sobrang kinakabahan ako nung araw na yon.
+			Sino ba naman hindi sa first time??
+			Ang cute mo kasi randam ko din yung kaba tas hindi mapakali, 
+			"bagalan mo lang" HAHAHAHHAAH
+			<br><br>
+			Inuwi kita kasi gusto ko talaga makilala mo family ko at gusto ko din malaman nila na may maganda akong iniirog HAHAHAH.
+			Gusto ko isama yung vid na inedit mo kaso medyo malaki yung file so hindi kaya.
+			<br><br>
+			Anyways, Thank you so much sa pag sama sa akin pauwi! 
+			sobra sobrang saya ko lang kasi ibang level na tayo to the point na nag uuwian na sa bahay bahay HAHAHHHA`,
+			signature: 'Lloydiee :33💕'
 		}
 	},
 	{
@@ -218,78 +247,86 @@ const timelineData = [
 		icon: '🏡',
 		photo: '1st/main/photos/samin.mp4',
 		letter: {
-			title: 'Your Laugh',
-			content: `My joy, my happiness,<br><br>
-			That first time I made you laugh - really laugh - it was like discovering the most beautiful melody in the world. Your laugh became my favorite sound, my daily dose of happiness.<br><br>
-			I love how your eyes crinkle when you laugh, how you throw your head back, how contagious your joy is. Making you laugh became my favorite hobby, my greatest achievement.<br><br>
-			Thank you for sharing your laughter with me.`,
-			signature: 'Your comedian 😂💕'
+			title: 'Change personality?',
+			content: `Bat parang nag iba bigla HAHA,<br><br>
+			Look how shy you are aa, ibang iba nung nasa car pa lang tayo e, may pag yapos pa pero nung nasa amin na hahawakan ko lang kamay abay naglalalayo "lumayo ka sakin" HAHAHHAHA.
+			<br><br>
+			Finally, nasa amin ka na!! na meet mo na family ko and i can say na sobra sila nag ccare sayo.
+			Nakaka panibalo lang tingnan kasi para sadyang nag bago ang anyo mo eh, bigla-bigla nagiging mahiyain HAHAHAHA.
+			<br><br>
+			So so cute my loveee!`,
+			signature: 'Lloydiee :33💕'
 		}
 	},
-	{
-		date: 'August 23, 2025',
-		title: 'Family Lunch',
-		desc: 'Meet my family and eat lunch with them',
-		color: '#ff6b6b',
-		icon: '💕',
-		photo: '1st/main/photos/fam2.jpg',
-		letter: {
-			title: 'Stronger Together',
-			content: `My partner in growth,<br><br>
-			Our first fight taught me that love isn't about never disagreeing - it's about how we work through our differences together. You showed me that conflict can bring us closer when handled with love and respect.<br><br>
-			I learned that we're stronger together, even when we disagree. You taught me that love means choosing us over being right, choosing understanding over winning.<br><br>
-			Thank you for teaching me how to love better.`,
-			signature: 'Your growing partner 🤝❤️'
-		}
-	},
-	{
-		date: 'August 23, 2025',
-		title: 'Photobooth w/ thrill?',
-		desc: 'Photo booth for the month of August',
-		color: '#a8e6cf',
-		icon: '🫣',
-		photo: '1st/main/photos/photoSM.mp4',
-		letter: {
-			title: 'Your Surprise',
-			content: `My beautiful surprise,<br><br>
-			Planning that first surprise for you was one of my favorite memories. The anticipation, the excitement, the way your face lit up when you realized what was happening - pure magic.<br><br>
-			I love how you react to surprises, how your eyes sparkle with wonder, how you get that adorable look of disbelief. Making you happy became my greatest joy.<br><br>
-			Here's to many more surprises and the joy they bring us both.`,
-			signature: 'Your surprise planner 🎁✨'
-		}
-	},
-	{
-		date: 'august 23, 2025',
-		title: 'Four couples!',
-		desc: 'Picuture with four couples',
-		color: '#ffd93d',
-		icon: '🫘',
-		photo: '1st/main/photos/withBrother.jpeg',
-		letter: {
-			title: 'Our Little Family',
-			content: `My co-parent,<br><br>
-			The day we brought home our first pet together, I knew our family was growing. Watching you care for our little one with such love and tenderness made me fall in love with you all over again.<br><br>
-			You're such a natural caregiver, so patient and loving. Our pet became another way we bonded, another shared responsibility that brought us closer together.<br><br>
-			Thank you for being such an amazing co-parent to our furry family member.`,
-			signature: 'Your co-parent 🐾💕'
-		}
-	},
-	{
-		date: 'August 23, 2025',
-		title: 'Shy type HAHAH',
-		desc: 'pipic lang e nahiya pa yan sha',
-		color: '#ff8a80',
-		icon: '🎀',
-		photo: '1st/main/photos/shyCoffeebeans.jpg',
-		letter: {
-			title: 'Holiday Magic',
-			content: `My holiday love,<br><br>
-			Our first holiday together was magical. Decorating, cooking, creating traditions - everything felt more special because we were doing it together. You made the holidays feel like home.<br><br>
-			I love how you get excited about traditions, how you make everything feel festive and warm. Our holiday celebrations became some of my favorite memories.<br><br>
-			Thank you for making every holiday magical and meaningful.`,
-			signature: 'Your holiday partner 🎄💖'
-		}
-	},
+		{
+			date: 'August 23, 2025',
+			title: 'Family Lunch',
+			desc: 'Meet my family and eat lunch with them',
+			color: '#ff6b6b',
+			icon: '💕',
+			photo: '1st/main/photos/fam2.jpg',
+			letter: {
+				title: "Luna's birthday!",
+				content: `Fam lunch,<br><br>
+				At this moment, napakilala na kita sa fam ko. 
+				Ang cute lang ng mga kapatid ko kasi binibiro nila ako HAHAHAHHA.
+				Tapos one thing na napansin ko is nag-s-smile si papa kasi lahat kami ay may sari-sariling dala ng bebe, tapos nag-picture pa siya ng pasimple.
+				<br><br>
+				No words can explain my feelings in that moment because my family was showing care for you. 
+				Imagine, after the accident nag-offer pa sila Ninong Ry na sila na daw maghahatid sayo. That's so much love!!
+				Before and after ihatid, tinatanong ka pa ni papa like kinakamusta ka kung ano nangyari, naihatid ba, kung okay ka lang ba, etc.
+				Swear, if merong pinaka masaya sa mundo, ako 'yon.
+				Sobrang bait nila sayo!
+				<br><br>
+				Thank you din for giving Luna a gift, sobrang saya niya. Dinala pa nga niya sa US yung gift mo sa kanya. And
+				I hope naging memorable din sayo ang welcome sayo ng fam ko!`,
+				signature: 'Lloydiee :33💕'
+			}
+		},
+
+			{
+			date: 'August 23, 2025',
+			title: 'Photobooth w/ thrill?',
+			desc: 'Photo booth for the month of August',
+			color: '#a8e6cf',
+			icon: '🫣',
+			photo: '1st/main/photos/photoSM.mp4',
+			letter: {
+				title: 'Level up??',
+				content: `3rd official photobooth,<br><br>
+				After we ate lunch with my family, we went to SM with my brothers and their partners too. 
+				Then we simply separated from them to take a photobooth.
+				Look oh, lumelevel up na may pa-kiss na e.
+				Ang saya lang tingnan kasi when you look closely, hindi siya malaswa tingnan. Ang cute lang talaga.
+				<br><br>
+				Not assuming, pero feel ko talaga we're taking it seriously na. What I mean is, kahit na I'm courting you pa lang, parang I have assurance na magiging tayo in the future. wala lang bat ba HAHAHA
+				<br><br>`,
+				signature: 'Lloydiee :33💕'
+			}
+		},
+
+		{
+			date: 'August 23, 2025',
+			title: 'Four couples!',
+			desc: 'Picture with four couples',
+			color: '#ffd93d',
+			icon: '🫘',
+			photo: '1st/main/photos/withBrother.jpeg',
+			letter: {
+				title: '4 Couples',
+				content: `Cute ni Lyannah HAHA,<br><br>
+				Quality time with my brothers, look oh, ang gaganda nyo lahat.
+				Para bang nagpapagandahan kami ng bebe e HAHHAHA.<br><br>
+				Ang ganda ng usapan here e, tinatanong tayo kung paano tayo nagsimula, saan nagkakilala and all.
+				<br><br>
+				Etong araw na 'to ay sobrang memorable at sobrang nakaka-overwhelmed. 
+				Imagine sobrang daming nangyari, sobrang saya, stress, kaba, lahat na lang ng pwedeng maramdaman ay naramdaman na HAHAHHAHAH.
+				<br><br>
+				So grateful to have you in my life, Joey!`,
+				signature: 'Lloydiee :33💕'
+			}
+		},
+
 	{
 		date: 'August 30, 2025',
 		title: 'Samgy date<33',
@@ -298,12 +335,9 @@ const timelineData = [
 		icon: '🥓🥬🍚',
 		photo: '1st/main/photos/samgy.mp4',
 		letter: {
-			title: 'Teamwork Makes the Dream Work',
-			content: `My project partner,<br><br>
-			Working on our first big project together showed me how well we complement each other. Your creativity, my organization, your vision, my execution - we make an amazing team.<br><br>
-			I love how we problem-solve together, how we support each other through challenges, how we celebrate our successes as a team. We're unstoppable when we work together.<br><br>
-			Thank you for being my perfect partner in everything we do.`,
-			signature: 'Your teammate 🔨💪'
+			title: '',
+			content: ``,
+			signature: 'Lloydiee :33💕'
 		}
 	},
 	{
@@ -314,12 +348,9 @@ const timelineData = [
 		icon: '💞',
 		photo: '1st/main/photos/saidYes.mp4',
 		letter: {
-			title: 'Adventure Awaits',
-			content: `My adventure buddy,<br><br>
-			Our first big adventure together was everything I dreamed it would be. The planning, the excitement, the unexpected moments, the memories we made - it was perfect because we did it together.<br><br>
-			I love how you embrace new experiences, how you find joy in the journey, how you make every adventure feel like a grand exploration. With you, every day is an adventure.<br><br>
-			Here's to many more adventures and the stories we'll tell.`,
-			signature: 'Your adventure partner 🗺️🌟'
+			title: '',
+			content: ``,
+			signature: 'Lloydiee :33💕'
 		}
 	},
 	{
@@ -330,12 +361,9 @@ const timelineData = [
 		icon: '🥰',
 		photo: '1st/main/photos/yesyes.jpg',
 		letter: {
-			title: 'Our Future',
-			content: `My dream partner,<br><br>
-			Dreaming about our future together is one of my favorite things to do. All the places we'll go, the experiences we'll have, the memories we'll make - I can't wait to live them all with you.<br><br>
-			Your dreams have become my dreams, your goals my goals. Together, we can achieve anything we set our minds to. Our future is bright because we're facing it together.<br><br>
-			Thank you for sharing your dreams with me and making them ours.`,
-			signature: 'Your future 💫🌈'
+			title: '',
+			content: ``,
+			signature: 'Lloydiee :33💕'
 		}
 	},
 	{
@@ -346,9 +374,9 @@ const timelineData = [
 		icon: '🍓',
 		photo: '1st/main/photos/swing.jpg',
 		letter: {
-			title: 'Cuddle & Popcorn',
-			content: `Our first movie night was so cozy. I loved every minute snuggled up with you, laughing and sharing popcorn. Can't wait for more!`,
-			signature: 'Your movie buddy 🍿'
+			title: '',
+			content: ``,
+			signature: 'Lloydiee :33💕'
 		}
 	},
 	{
@@ -360,8 +388,8 @@ const timelineData = [
 		photo: '1st/main/photos/tampo.mp4',
 		letter: {
 			title: 'Tampo tampuhan e HAHAHHA',
-			content: `Who knew rain could be so much fun? Dancing with you in the rain made me feel alive and free. Let's never stop being silly together!`,
-			signature: 'Your rain dancer ☔'
+			content: ``,
+			signature: 'Lloydiee :33💕'
 		}
 	},
 	{
@@ -372,9 +400,9 @@ const timelineData = [
 		icon: '📸',
 		photo: '1st/main/photos/back.png',
 		letter: {
-			title: 'Coffee & Conversations',
-			content: `Our coffee date was filled with laughter and deep talks. I love discovering new places and new things about you.`,
-			signature: 'Your coffee mate 💜'
+			title: '',
+			content: ``,
+			signature: 'Lloydiee :33💕'
 		}
 	},
 	{
@@ -385,9 +413,9 @@ const timelineData = [
 		icon: '🥗',
 		photo: '1st/main/photos/pizzaSalad.jpg',
 		letter: {
-			title: 'Chasing Sunsets',
-			content: `The sunset was beautiful, but nothing compares to sharing it with you. Thank you for making every moment magical.`,
-			signature: 'Your sunset chaser 🌇'
+			title: '',
+			content: ``,
+			signature: 'Lloydiee :33💕'
 		}
 	},
 	{
@@ -398,9 +426,9 @@ const timelineData = [
 		icon: '☕',
 		photo: '1st/main/photos/walter.jpg',
 		letter: {
-			title: 'A Little Surprise',
-			content: `Seeing your smile when you got my surprise made my day. I love making you happy!`,
-			signature: 'Your secret gifter 🎉'
+			title: '',
+			content: ``,
+			signature: 'Lloydiee :33💕'
 		}
 	}
 ];
