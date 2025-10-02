@@ -8,7 +8,7 @@ const timelineData = [
 		photo: '1st/main/photos/firstPic.jpeg',
 		letter: {
 			title: 'The Beginning HAHAHA',
-			content: `Hello baby,<br><br>
+			content: `Hello Joey,<br><br>
 			This picture was the beginning,
 			imagine, dito nagsimula ang lahat HAHAHAHA.
 			From the very first time I saw you, I already knew you were special,
@@ -173,7 +173,7 @@ const timelineData = [
 			desc: 'Picture with Suzy cutieee',
 			color: '#45b7d1',
 			icon: '🐾',
-			photo: '1st/main/photos/withSuzy.jpeg',
+			photo: '1st/main/photos/withsuzy.jpeg',
 			letter: {
 				title: 'With pretty Suzy ',
 				content: `Pic with Suzy,<br><br>
@@ -316,69 +316,109 @@ const timelineData = [
 				title: '4 Couples',
 				content: `Cute ni Lyannah HAHA,<br><br>
 				Quality time with my brothers, look oh, ang gaganda nyo lahat.
-				Para bang nagpapagandahan kami ng bebe e HAHHAHA.<br><br>
+				Para bang nagpapagandahan kami ng bebe e HAHHAHA.
 				Ang ganda ng usapan here e, tinatanong tayo kung paano tayo nagsimula, saan nagkakilala and all.
 				<br><br>
 				Etong araw na 'to ay sobrang memorable at sobrang nakaka-overwhelmed. 
-				Imagine sobrang daming nangyari, sobrang saya, stress, kaba, lahat na lang ng pwedeng maramdaman ay naramdaman na HAHAHHAHAH.
+				Imagine sobrang daming nangyari, sobrang saya, stress, kaba, lahat na lang ng pwedeng maramdaman ay naramdaman na HAHAHHAHAH. 
 				<br><br>
 				So grateful to have you in my life, Joey!`,
 				signature: 'Lloydiee :33💕'
 			}
 		},
 
-	{
-		date: 'August 30, 2025',
-		title: 'Samgy date<33',
-		desc: 'Samgy date na para bang hindi diet HAHAHAHA',
-		color: '#81c784',
-		icon: '🥓🥬🍚',
-		photo: '1st/main/photos/samgy.mp4',
-		letter: {
-			title: '',
-			content: ``,
-			signature: 'Lloydiee :33💕'
-		}
-	},
-	{
-		date: 'September 6, 2025',
-		title: "She's mine!",
-		desc: 'The day i will never forget!',
-		color: '#64b5f6',
-		icon: '💞',
-		photo: '1st/main/photos/saidYes.mp4',
-		letter: {
-			title: '',
-			content: ``,
-			signature: 'Lloydiee :33💕'
-		}
-	},
-	{
-		date: 'September 6, 2025',
-		title: 'Date with her',
-		desc: 'All the dreams we have for our future together.',
-		color: '#ba68c8',
-		icon: '🥰',
-		photo: '1st/main/photos/yesyes.jpg',
-		letter: {
-			title: '',
-			content: ``,
-			signature: 'Lloydiee :33💕'
-		}
-	},
-	{
-		date: 'September 13, 2025',
-		title: 'Far from home?!',
-		desc: 'PG to LB HAHHAHAHA',
-		color: '#ffb347',
-		icon: '🍓',
-		photo: '1st/main/photos/swing.jpg',
-		letter: {
-			title: '',
-			content: ``,
-			signature: 'Lloydiee :33💕'
-		}
-	},
+			{
+			date: 'August 30, 2025',
+			title: 'Samgy date<33',
+			desc: 'Samgy date na para bang hindi diet HAHAHAHA',
+			color: '#81c784',
+			icon: '🥓🥬🍚',
+			photo: '1st/main/photos/samgy.mp4',
+			letter: {
+				title: 'Diet-dietan',
+				content: `Samgy,<br><br>
+				If you can still remember, before you went to Taysan, we set a goal like to lose weight etc. Nagwo-workout ka pa nga and ako naglalakad ng 10km but what happened? HAHHAHAHA.
+				These past few days puro kain tayo and wala na masyadong exercise aa. Need natin magpasarap ulit para sa isa't-isa.
+				Sabi pa natin after this date, diet na ulit tayo pero ayun, lamon pa din ng lamon BWAHHAHA.
+				<br><br>
+				Anyways, I really enjoyed this date with you. Food can make me happy, it can enlighten my mood as well as you do. You, my baby, are my main source of happiness 	isang smile mo lang I'm so happy na din. So Food + You = Super Happy Kiddo! HAHAHAH
+				<br><br>
+				Thank you for this date, I really want to explore life with you!
+				`,
+				signature: 'Lloydiee :33💕'
+			}
+		},
+
+			{
+			date: 'September 6, 2025',
+			title: "She's mine!",
+			desc: 'The day I will never forget!',
+			color: '#64b5f6',
+			icon: '💞',
+			photo: '1st/main/photos/saidYes.mp4',
+			letter: {
+				title: 'The Solemn Covenant',
+				content: `The Day,
+				<br><br>
+				I never imagined that we would end up here together after everything in our past. 
+				What once felt impossible has now become the most beautiful reality of my life. 
+				I’m beyond grateful, beyond happy, that it’s us, truly us. 
+				Today feels like a quiet vow, one spoken not in words but in the way our hearts chose each other. 
+				This is the moment I’ll carry with me forever.
+				<br><br>
+				You are not just my love, you are my answered prayer, my peace, and my greatest joy. 
+				When you said yes, it was not only to me but also to the life, the journey, and the love we will endlessly share. 
+				From this day forward, I promise to treasure you, to honor this covenant, and to hold your hand through every season of our lives.
+				<br><br>
+				Thank you for choosing me, for trusting me, and for loving me, my Joey.
+				`,
+				signature: 'Lloydiee :33💕'
+			}
+		},
+{
+	date: 'September 6, 2025',
+	title: 'Date with her',
+	desc: 'Date with my Girlfriend!',
+	color: '#ba68c8',
+	icon: '🥰',
+	photo: '1st/main/photos/yesyes.jpg',
+	letter: {
+		title: 'Date with my Girlfriend!',
+		content: `My Girlfriend! 
+		<br><br>
+		This is the happiest moment of my life. Imagine, you are mine and we are finally, officially together. 
+		Every time we spend a moment side by side, it feels extraordinary, as if the whole world disappears and it is just us two. 
+		<br><br>
+		They say that at the end of life we are granted seven minutes to relive it all. 
+		If that is true, then I know my moments will not be scattered across the years but gathered in you every smile, every touch, every breath we shared. 
+		In those final minutes, it will be only you, for you are the memory my soul is bound to forever.
+		<br><br>
+		You make my life unforgettable, and I am endlessly thankful for you.`,
+		signature: 'Lloydiee :33💕'
+	}
+},
+
+{
+	date: 'September 13, 2025',
+	title: 'Far from home?!',
+	desc: 'PG to LB HAHHAHAHA',
+	color: '#ffb347',
+	icon: '🍓',
+	photo: '1st/main/photos/swing.jpg',
+	letter: {
+		title: 'Beyond the Distance',
+		content: `PG to LB,
+		<br><br>
+		You may think it is far, but to me it never is. If it’s for you, I will go anywhere. Ikaw na yan oh, bakit naman ‘di ka puntahan?? HAHAHAHA.
+		<br><br>
+		Grabe mahal, I’m so happy that I’ve experienced so many things with you. I can truly say that you are the best thing that has ever happened to me. I feel like we’re becoming so much closer to each other. Imagine traveling four hours just to be wrapped in your tightest hug? Baby, I wish I could put that feeling in a while loop so I could experience it again and again.
+		<br><br>
+		Baby, look how cute we are in this picture. I love you so much, my Joeyy!
+		`,
+		signature: 'Lloydiee :33💕'
+	}
+},
+
 	{
 		date: 'September 13, 2025',
 		title: 'Fave live photo',
@@ -388,23 +428,37 @@ const timelineData = [
 		photo: '1st/main/photos/tampo.mp4',
 		letter: {
 			title: 'Tampo tampuhan e HAHAHHA',
-			content: ``,
+			content: `Fave live photo,<br><br>
+			Ang cute mo mag tampo baby aa, 'di ko na maalala kung anong pinag uusapan natin dito pero ang cute mo talaga HAHAHAHA.
+			can't wait na ikaw na inuuwian ko baby huhu. 
+			<br><br>
+			And also, thank you for being so understanding and patient with me like when we're taking pictures and all. HAHAHHA
+			my personal photographer, lahat nalang gusto may picture. 
+			<br><br>
+			I love you so much baby, thank you for existing!!.
+			`,
 			signature: 'Lloydiee :33💕'
 		}
 	},
 	{
-		date: 'September 13, 2025',
-		title: 'Candid picture',
-		desc: 'A candid picture with her',
-		color: '#b388ff',
-		icon: '📸',
-		photo: '1st/main/photos/back.png',
-		letter: {
-			title: '',
-			content: ``,
-			signature: 'Lloydiee :33💕'
-		}
-	},
+	date: 'September 13, 2025',
+	title: 'Candid picture',
+	desc: 'A candid picture with her',
+	color: '#b388ff',
+	icon: '📸',
+	photo: '1st/main/photos/back.png',
+	letter: {
+		title: 'Candid',
+		content: `Also fave,<br><br>
+		This picture is one of my favorites too. Parang lahat na lang ng picture natin, lagi kong fave. HAHHAHA. Gano’n na ba talaga kita kamahal, my love??
+		<br><br>
+		Look how close we are here. We’re so comfortable with each other and it feels so good knowing I have Joey with me, someone who understands me in every way possible. I can share my problems, my happiness, my sadness, and everything in between with you, and I know you will always be there for me. 
+		You’re my safe place, my favorite person. my Love!
+		`,
+		signature: 'Lloydiee :33💕'
+	}
+},
+
 	{
 		date: 'September 20, 2025',
 		title: 'S&R Salad!',
@@ -413,8 +467,16 @@ const timelineData = [
 		icon: '🥗',
 		photo: '1st/main/photos/pizzaSalad.jpg',
 		letter: {
-			title: '',
-			content: ``,
+			title: 'Massage Date',
+			content: `Before the sakuna,<br><br>
+			Another first time with you, the massage date. i'm genuinely happy that we tried it together. 
+			ang sarap lang ulit sa feelings na we're both interesting in new things like we explrore life together.
+			alam mo yung masakit? likod ko habang minamasahe ni kuya na parang galit aa HAAHHAHA
+			<br><br>
+			Before the massage, we ate first sa S&R. Sarap nung salad and ng pizza tas ang sulit pa nya sa price. my bago na ako fave na food HAHHAHA
+			<br><br>
+			Thank you for being with me in this new experience. as always, I love you so much my baby!
+			`,
 			signature: 'Lloydiee :33💕'
 		}
 	},
@@ -425,6 +487,19 @@ const timelineData = [
 		color: '#43cea2',
 		icon: '☕',
 		photo: '1st/main/photos/walter.jpg',
+		letter: {
+			title: '',
+			content: ``,
+			signature: 'Lloydiee :33💕'
+		}
+	},
+	{
+		date: 'October 2, 2025',
+		title: 'Long Awaited Day',
+		desc: '',
+		color: '#ffd700',
+		icon: '🟡',
+		photo: '',
 		letter: {
 			title: '',
 			content: ``,
