@@ -35,7 +35,7 @@ const timelineData = [
 			I hope naging memorable din sayo ang first meet natin. <br><br>
 			And also, I believe that a good first meet really lasts.
 			What I mean is, if the first meet is boring or awkward, paano pa masusundan, right?
-			Kaya ayun, I’m so happy, and I hope you are too hehe.`,
+			Kaya ayun, I’m so happy, sobrang unforgettable ng moment na yun and I hope you are too hehe.`,
 			signature: 'Lloydiee :33💕'
 		}
 	},
@@ -141,7 +141,7 @@ const timelineData = [
 			and you said “bad move.” Late ko na lang na-realize, “shet oo nga 'no” HAHAHAHA.<br><br>
 			Eto rin yung time na inuwi mo ako sa inyo. Dapat mabilis lang kasi pahapon na, 
 			pero umabot na ng gabi hanggang sa hindi na ako pinauwi at nakitulog na lang ako sa inyo aa huhu.  
-			But anyways, I’M SUPER HAPPY kasi you brought me home like sobrang assurance na yon for me.`,
+			But anyways, I’M SUPER HAPPY kasi you brought me home like sobrang assurance na yon for me. imagine inuwi na agad-agad pagka tanong HWAHHHAWHAH`,
 			signature: 'Lloydiee :33💕'
 		}
 	},
@@ -156,13 +156,13 @@ const timelineData = [
 			title: 'Touchdown guys',
 			content: `Hello Joey,<br><br>
 			I just wanna say that I'm so happy kasi inuwi mo ako sa inyo.
-			I really can't believe na ipinakilala mo ako sa parents mo and sa mga kapatid mo agad-agad.
+			I really can't believe na ipinakilala mo ako sa parents mo and sa mga kapatid mo kaagad.
 			Grabe yung kaba ko kahit hindi pasmado, nababasa kamay ko e HAHAHHAHA.
 			<br><br>
 			Thank you for bringing me home. Just like what I've said, isang malaking assurance 'yon for me.
 			'Di mo naman siguro ako iuuwi kung hindi ka sure sakin e, tama ba? HAHAHA.
 			<br><br>
-			Tamo naman kung gaano ka ka-clingy nung nasa inyo na tayo. Sadya namang dikit kung dikit e. Tamo, may pag halik pa.`,
+			Tamo naman kung gaano ka ka-clingy nung nasa inyo na tayo. Sadya namang dikit kung dikit e. tamo may pag halik pa e, ay ako pala na-kiss hehe`,
 			signature: 'Lloydiee :33💕'
 		}
 	},
@@ -209,8 +209,8 @@ const timelineData = [
 			first time ko lang din maka kita ng green na flowers kasi puro pink and white lang din e.
 			<br><br>
 			Thank you kasi pumayag ka na iuwi kita sa amin at makilala ng family ko, 
-			ang sarap sa feeling na sumama ka sakin na para bang wala kang choice HAHAHAHA. 
-			kidding asside, so so happy na makikilala ka ng family ko. 
+			ang sarap sa feeling na sumama ka sakin, yung tiwala mo sakin ay hindi basta basta. 
+			I'm so happy na makikilala ka ng family ko. 
 			First time ko magpapakilala sa kanila kaya papunta at pabalik sa amin sobrang kinakabahan ako.`,
 			signature: 'Lloydiee :33💕'
 		}
@@ -231,7 +231,7 @@ const timelineData = [
 			Ang cute mo kasi randam ko din yung kaba tas hindi mapakali, 
 			"bagalan mo lang" HAHAHAHHAAH
 			<br><br>
-			Inuwi kita kasi gusto ko talaga makilala mo family ko at gusto ko din malaman nila na may maganda akong iniirog HAHAHAH.
+			Inuwi kita kasi gusto ko talaga makilala mo family ko at gusto ko din malaman nila na may maganda akong nililigawan, And also para bigyan din kita ng assurance.
 			Gusto ko isama yung vid na inedit mo kaso medyo malaki yung file so hindi kaya.
 			<br><br>
 			Anyways, Thank you so much sa pag sama sa akin pauwi! 
@@ -386,7 +386,7 @@ const timelineData = [
 		title: 'Date with my Girlfriend!',
 		content: `My Girlfriend! 
 		<br><br>
-		This is the happiest moment of my life. Imagine, you are mine and we are finally, officially together. 
+		This is one of the happiest moment of my life. Imagine, you are mine and we are finally, officially together. 
 		Every time we spend a moment side by side, it feels extraordinary, as if the whole world disappears and it is just us two. 
 		<br><br>
 		They say that at the end of life we are granted seven minutes to relive it all. 
@@ -409,11 +409,11 @@ const timelineData = [
 		title: 'Beyond the Distance',
 		content: `PG to LB,
 		<br><br>
-		You may think it is far, but to me it never is. If it’s for you, I will go anywhere. Ikaw na yan oh, bakit naman ‘di ka puntahan?? HAHAHAHA.
+		You may think it is far, but to me it never is. If it’s you, I will go anywhere. Ikaw na yan oh, bakit naman ‘di ka puntahan?? HAHAHAHA.
 		<br><br>
 		Grabe mahal, I’m so happy that I’ve experienced so many things with you. I can truly say that you are the best thing that has ever happened to me. I feel like we’re becoming so much closer to each other. Imagine traveling four hours just to be wrapped in your tightest hug? Baby, I wish I could put that feeling in a while loop so I could experience it again and again.
 		<br><br>
-		Baby, look how cute we are in this picture. I love you so much, my Joeyy!
+		Baby, look how cute we are in this picture, kunyare maangas ako. I love you so much, my Joeyy!
 		`,
 		signature: 'Lloydiee :33💕'
 	}
@@ -450,7 +450,7 @@ const timelineData = [
 	letter: {
 		title: 'Candid',
 		content: `Also fave,<br><br>
-		This picture is one of my favorites too. Parang lahat na lang ng picture natin, lagi kong fave. HAHHAHA. Gano’n na ba talaga kita kamahal, my love??
+		This picture is one of my favorites too. Parang lahat na lang ng picture natin, lagi kong fave HAHHAHA. Gano’n na ba talaga kita kamahal, my love??
 		<br><br>
 		Look how close we are here. We’re so comfortable with each other and it feels so good knowing I have Joey with me, someone who understands me in every way possible. I can share my problems, my happiness, my sadness, and everything in between with you, and I know you will always be there for me. 
 		You’re my safe place, my favorite person. my Love!
@@ -470,12 +470,12 @@ const timelineData = [
 			title: 'Massage Date',
 			content: `Before the sakuna,<br><br>
 			Another first time with you, the massage date. i'm genuinely happy that we tried it together. 
-			ang sarap lang ulit sa feelings na we're both interesting in new things like we explrore life together.
-			alam mo yung masakit? likod ko habang minamasahe ni kuya na parang galit aa HAAHHAHA
+			ang sarap lang sa feelings na we're both interested in new things like we explrore life together.
+			alam mo yung hindi masarap sa feeling? yung likod ko habang minamasahe ni kuya na parang galit aa HAAHHAHA
 			<br><br>
-			Before the massage, we ate first sa S&R. Sarap nung salad and ng pizza tas ang sulit pa nya sa price. my bago na ako fave na food HAHHAHA
+			Before the massage, we ate first sa S&R. Sarap nung salad and ng pizza tas ang sulit pa nya sa price. may bago na ako fave na food.
 			<br><br>
-			Thank you for being with me in this new experience. as always, I love you so much my baby!
+			Thank you for this day my lovee. As always, I love you so much my baby!
 			`,
 			signature: 'Lloydiee :33💕'
 		}
@@ -488,8 +488,13 @@ const timelineData = [
 		icon: '☕',
 		photo: '1st/main/photos/walter.jpg',
 		letter: {
-			title: '',
-			content: ``,
+			title: 'Coffee Date',
+			content: `hii baby,
+			<br><br>
+			Another coffee date with you, as always so grateful to have you in my life. Imagine I have girlfriend na sobrang gandaaaaa! hindi ako noodles pero lucky me HAHAHAHAHAHAHAHHA.
+			<br><br>
+			But anyways, Thank you for being so understanding and patient with me. I know I can be difficult at times, but you always manage to handle me with so much love and care. You make me feel so special and loved, and I am endlessly grateful for that.
+			`,
 			signature: 'Lloydiee :33💕'
 		}
 	},
@@ -499,10 +504,21 @@ const timelineData = [
 		desc: '',
 		color: '#ffd700',
 		icon: '🟡',
-		photo: '',
+		photo: '1st/main/photos/2couples.jpg',
 		letter: {
-			title: '',
-			content: ``,
+			title: 'This is it!',
+			content: `Unexpected date,<br><br>
+			We've talked about not meeting up just for 1 week because these past few days or weeks ay puro tayo gastos and mag titipid muna tayo,
+			pero what happened? HSHAHSHAHSDH.
+			Hindi ako maka-hinga pag hindi kita makita kahit 1 week e, oa na kung oa pero totoo yon aa. 
+			natatagalan na nga ako sa 1 week e gusto everyday pero baka magsawa ka agad sakin e so sige tama lang na weekly HAHAHAHHAHAH
+			<br><br>
+			Nevertheless, Look oh naging double date pa biglaan with Aisa and Junnel, the long awaited date has finally happened.
+			So happy to meet them. Dapat mag kakape lang tayo e ayun bigla nag chat si Aisa "what if magkape tayooo" ay sya sigi kita HAHAHHAHAHA.
+			<br><br>
+			Thank you for that day baby, so happy sa quality time natin. and also ang cute lang nung habang nag mamake up ka is naka tingin lang ako pinapanood ka.
+			I love you my babyy!
+			`,
 			signature: 'Lloydiee :33💕'
 		}
 	}
