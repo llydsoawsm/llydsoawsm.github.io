@@ -513,7 +513,7 @@ const timelineData = [
 			Hindi ako maka-hinga pag hindi kita makita kahit 1 week e, oa na kung oa pero totoo yon aa. 
 			natatagalan na nga ako sa 1 week e gusto everyday pero baka magsawa ka agad sakin e so sige tama lang na weekly HAHAHAHHAHAH
 			<br><br>
-			Nevertheless, Look oh naging double date pa biglaan with Aisa and Junnel, the long awaited date has finally happened.
+			But then, naging double date pa biglaan with Aisa and Junnel, the long awaited date has finally happened.
 			So happy to meet them. Dapat mag kakape lang tayo e ayun bigla nag chat si Aisa "what if magkape tayooo" ay sya sigi kita HAHAHHAHAHA.
 			<br><br>
 			Thank you for that day baby, so happy sa quality time natin. and also ang cute lang nung habang nag mamake up ka is naka tingin lang ako pinapanood ka.
